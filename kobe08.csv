@@ -1,0 +1,1852 @@
+combined_shot_type,period,shot_distance,shot_made_flag,opponent,shot_type,game_date
+Jump Shot,1,16,0,POR,2PT Field Goal,10/28/08
+Layup,1,0,1,POR,2PT Field Goal,10/28/08
+Layup,1,0,0,POR,2PT Field Goal,10/28/08
+Jump Shot,2,16,0,POR,2PT Field Goal,10/28/08
+Jump Shot,3,24,1,POR,3PT Field Goal,10/28/08
+Layup,3,0,1,POR,2PT Field Goal,10/28/08
+Jump Shot,3,22,0,POR,2PT Field Goal,10/28/08
+Layup,3,0,1,POR,2PT Field Goal,10/28/08
+Jump Shot,4,11,1,POR,2PT Field Goal,10/28/08
+Layup,1,0,1,LAC,2PT Field Goal,10/29/08
+Jump Shot,1,25,0,LAC,3PT Field Goal,10/29/08
+Jump Shot,1,18,1,LAC,2PT Field Goal,10/29/08
+Jump Shot,1,19,1,LAC,2PT Field Goal,10/29/08
+Layup,1,0,0,LAC,2PT Field Goal,10/29/08
+Jump Shot,2,8,0,LAC,2PT Field Goal,10/29/08
+Jump Shot,3,5,1,LAC,2PT Field Goal,10/29/08
+Layup,3,0,0,LAC,2PT Field Goal,10/29/08
+Jump Shot,3,9,0,LAC,2PT Field Goal,10/29/08
+Jump Shot,3,27,0,LAC,3PT Field Goal,10/29/08
+Jump Shot,3,4,1,LAC,2PT Field Goal,10/29/08
+Jump Shot,3,20,0,LAC,2PT Field Goal,10/29/08
+Tip Shot,1,0,0,DEN,2PT Field Goal,11/1/08
+Layup,1,0,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,1,10,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,1,22,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,1,7,0,DEN,2PT Field Goal,11/1/08
+Layup,1,0,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,2,20,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,2,7,0,DEN,2PT Field Goal,11/1/08
+Layup,3,0,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,3,17,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,3,9,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,3,17,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,3,19,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,3,25,0,DEN,3PT Field Goal,11/1/08
+Layup,4,0,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,4,24,1,DEN,3PT Field Goal,11/1/08
+Jump Shot,4,17,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,4,17,0,DEN,2PT Field Goal,11/1/08
+Layup,4,0,1,DEN,2PT Field Goal,11/1/08
+Layup,4,0,1,DEN,2PT Field Goal,11/1/08
+Jump Shot,4,17,0,DEN,2PT Field Goal,11/1/08
+Jump Shot,1,11,1,LAC,2PT Field Goal,11/5/08
+Jump Shot,1,19,1,LAC,2PT Field Goal,11/5/08
+Jump Shot,1,19,1,LAC,2PT Field Goal,11/5/08
+Jump Shot,1,10,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,1,20,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,2,13,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,2,10,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,2,19,0,LAC,2PT Field Goal,11/5/08
+Dunk,2,0,1,LAC,2PT Field Goal,11/5/08
+Layup,3,0,1,LAC,2PT Field Goal,11/5/08
+Jump Shot,3,22,0,LAC,3PT Field Goal,11/5/08
+Layup,3,0,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,3,6,0,LAC,2PT Field Goal,11/5/08
+Jump Shot,3,12,1,LAC,2PT Field Goal,11/5/08
+Jump Shot,3,6,0,LAC,2PT Field Goal,11/5/08
+Layup,3,0,1,LAC,2PT Field Goal,11/5/08
+Layup,4,0,0,LAC,2PT Field Goal,11/5/08
+Hook Shot,1,7,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,1,10,0,HOU,2PT Field Goal,11/9/08
+Jump Shot,1,21,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,2,16,1,HOU,2PT Field Goal,11/9/08
+Layup,2,0,0,HOU,2PT Field Goal,11/9/08
+Jump Shot,3,6,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,3,13,0,HOU,2PT Field Goal,11/9/08
+Jump Shot,3,17,1,HOU,2PT Field Goal,11/9/08
+Bank Shot,3,14,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,3,16,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,3,26,0,HOU,3PT Field Goal,11/9/08
+Jump Shot,3,19,0,HOU,2PT Field Goal,11/9/08
+Jump Shot,4,24,1,HOU,3PT Field Goal,11/9/08
+Layup,4,0,0,HOU,2PT Field Goal,11/9/08
+Dunk,4,0,1,HOU,2PT Field Goal,11/9/08
+Jump Shot,1,12,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,1,17,1,DAL,2PT Field Goal,11/11/08
+Layup,1,0,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,1,18,0,DAL,2PT Field Goal,11/11/08
+Layup,1,0,1,DAL,2PT Field Goal,11/11/08
+Layup,1,0,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,2,20,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,2,15,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,2,16,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,2,14,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,2,25,0,DAL,3PT Field Goal,11/11/08
+Jump Shot,3,8,0,DAL,2PT Field Goal,11/11/08
+Dunk,4,0,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,4,20,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,4,16,1,DAL,2PT Field Goal,11/11/08
+Layup,4,0,1,DAL,2PT Field Goal,11/11/08
+Jump Shot,4,17,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,4,18,0,DAL,2PT Field Goal,11/11/08
+Jump Shot,1,18,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,1,8,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,1,18,0,NOH,2PT Field Goal,11/12/08
+Layup,2,0,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,3,18,0,NOH,2PT Field Goal,11/12/08
+Layup,3,0,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,3,16,1,NOH,2PT Field Goal,11/12/08
+Jump Shot,3,20,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,4,18,0,NOH,2PT Field Goal,11/12/08
+Bank Shot,4,7,1,NOH,2PT Field Goal,11/12/08
+Jump Shot,4,19,0,NOH,2PT Field Goal,11/12/08
+Layup,4,0,0,NOH,2PT Field Goal,11/12/08
+Jump Shot,4,26,1,NOH,3PT Field Goal,11/12/08
+Jump Shot,1,21,0,DET,2PT Field Goal,11/14/08
+Jump Shot,1,7,1,DET,2PT Field Goal,11/14/08
+Jump Shot,1,9,0,DET,2PT Field Goal,11/14/08
+Dunk,1,0,1,DET,2PT Field Goal,11/14/08
+Jump Shot,1,16,0,DET,2PT Field Goal,11/14/08
+Dunk,1,0,1,DET,2PT Field Goal,11/14/08
+Jump Shot,1,13,0,DET,2PT Field Goal,11/14/08
+Jump Shot,2,10,1,DET,2PT Field Goal,11/14/08
+Jump Shot,2,15,0,DET,2PT Field Goal,11/14/08
+Jump Shot,2,8,0,DET,2PT Field Goal,11/14/08
+Jump Shot,2,15,0,DET,2PT Field Goal,11/14/08
+Jump Shot,3,11,0,DET,2PT Field Goal,11/14/08
+Jump Shot,3,18,0,DET,2PT Field Goal,11/14/08
+Jump Shot,3,15,1,DET,2PT Field Goal,11/14/08
+Layup,3,3,0,DET,2PT Field Goal,11/14/08
+Dunk,3,0,1,DET,2PT Field Goal,11/14/08
+Jump Shot,3,25,0,DET,3PT Field Goal,11/14/08
+Jump Shot,4,25,0,DET,3PT Field Goal,11/14/08
+Jump Shot,4,11,0,DET,2PT Field Goal,11/14/08
+Jump Shot,4,25,1,DET,3PT Field Goal,11/14/08
+Jump Shot,4,27,1,DET,3PT Field Goal,11/14/08
+Jump Shot,4,26,0,DET,3PT Field Goal,11/14/08
+Layup,4,0,1,DET,2PT Field Goal,11/14/08
+Jump Shot,4,24,0,DET,3PT Field Goal,11/14/08
+Dunk,4,0,1,DET,2PT Field Goal,11/14/08
+Jump Shot,1,13,0,CHI,2PT Field Goal,11/18/08
+Layup,2,0,1,CHI,2PT Field Goal,11/18/08
+Jump Shot,2,11,1,CHI,2PT Field Goal,11/18/08
+Layup,2,0,1,CHI,2PT Field Goal,11/18/08
+Jump Shot,2,26,0,CHI,3PT Field Goal,11/18/08
+Layup,2,0,0,CHI,2PT Field Goal,11/18/08
+Jump Shot,3,19,1,CHI,2PT Field Goal,11/18/08
+Jump Shot,3,25,1,CHI,3PT Field Goal,11/18/08
+Tip Shot,3,0,0,CHI,2PT Field Goal,11/18/08
+Jump Shot,3,19,1,CHI,2PT Field Goal,11/18/08
+Jump Shot,3,26,0,CHI,3PT Field Goal,11/18/08
+Jump Shot,3,23,1,CHI,3PT Field Goal,11/18/08
+Jump Shot,4,26,1,CHI,3PT Field Goal,11/18/08
+Jump Shot,4,5,0,CHI,2PT Field Goal,11/18/08
+Jump Shot,1,25,0,PHX,3PT Field Goal,11/20/08
+Jump Shot,1,7,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,1,20,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,1,6,1,PHX,2PT Field Goal,11/20/08
+Jump Shot,1,9,1,PHX,2PT Field Goal,11/20/08
+Dunk,2,0,1,PHX,2PT Field Goal,11/20/08
+Jump Shot,2,20,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,2,10,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,2,16,0,PHX,2PT Field Goal,11/20/08
+Layup,2,0,1,PHX,2PT Field Goal,11/20/08
+Dunk,3,0,1,PHX,2PT Field Goal,11/20/08
+Jump Shot,3,26,1,PHX,3PT Field Goal,11/20/08
+Jump Shot,3,26,0,PHX,3PT Field Goal,11/20/08
+Bank Shot,3,9,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,3,12,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,3,24,0,PHX,3PT Field Goal,11/20/08
+Jump Shot,3,10,1,PHX,2PT Field Goal,11/20/08
+Jump Shot,4,8,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,4,18,0,PHX,2PT Field Goal,11/20/08
+Jump Shot,1,12,0,DEN,2PT Field Goal,11/21/08
+Jump Shot,1,16,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,1,10,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,1,22,0,DEN,2PT Field Goal,11/21/08
+Jump Shot,1,18,1,DEN,2PT Field Goal,11/21/08
+Dunk,1,0,0,DEN,2PT Field Goal,11/21/08
+Layup,2,0,0,DEN,2PT Field Goal,11/21/08
+Layup,2,0,1,DEN,2PT Field Goal,11/21/08
+Dunk,2,0,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,2,27,1,DEN,3PT Field Goal,11/21/08
+Jump Shot,3,10,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,3,27,0,DEN,3PT Field Goal,11/21/08
+Jump Shot,3,14,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,3,16,1,DEN,2PT Field Goal,11/21/08
+Jump Shot,3,29,0,DEN,3PT Field Goal,11/21/08
+Jump Shot,1,11,1,SAC,2PT Field Goal,11/23/08
+Jump Shot,1,19,1,SAC,2PT Field Goal,11/23/08
+Layup,1,0,0,SAC,2PT Field Goal,11/23/08
+Layup,1,0,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,2,19,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,2,10,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,3,10,1,SAC,2PT Field Goal,11/23/08
+Jump Shot,3,5,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,3,16,0,SAC,2PT Field Goal,11/23/08
+Layup,3,0,1,SAC,2PT Field Goal,11/23/08
+Layup,3,0,1,SAC,2PT Field Goal,11/23/08
+Dunk,3,0,1,SAC,2PT Field Goal,11/23/08
+Layup,4,0,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,4,20,1,SAC,2PT Field Goal,11/23/08
+Layup,4,0,0,SAC,2PT Field Goal,11/23/08
+Jump Shot,4,24,0,SAC,3PT Field Goal,11/23/08
+Jump Shot,1,13,0,NJN,2PT Field Goal,11/25/08
+Layup,1,0,0,NJN,2PT Field Goal,11/25/08
+Jump Shot,1,22,0,NJN,2PT Field Goal,11/25/08
+Dunk,1,0,1,NJN,2PT Field Goal,11/25/08
+Jump Shot,2,19,0,NJN,2PT Field Goal,11/25/08
+Jump Shot,2,25,0,NJN,3PT Field Goal,11/25/08
+Jump Shot,3,19,1,NJN,2PT Field Goal,11/25/08
+Jump Shot,3,21,1,NJN,2PT Field Goal,11/25/08
+Jump Shot,3,24,0,NJN,3PT Field Goal,11/25/08
+Jump Shot,3,18,0,NJN,2PT Field Goal,11/25/08
+Jump Shot,3,16,0,NJN,2PT Field Goal,11/25/08
+Dunk,3,0,1,NJN,2PT Field Goal,11/25/08
+Layup,3,0,1,NJN,2PT Field Goal,11/25/08
+Jump Shot,1,16,0,DAL,2PT Field Goal,11/28/08
+Jump Shot,1,21,0,DAL,2PT Field Goal,11/28/08
+Layup,1,0,0,DAL,2PT Field Goal,11/28/08
+Layup,1,0,1,DAL,2PT Field Goal,11/28/08
+Layup,1,0,1,DAL,2PT Field Goal,11/28/08
+Layup,1,0,0,DAL,2PT Field Goal,11/28/08
+Jump Shot,1,25,1,DAL,3PT Field Goal,11/28/08
+Jump Shot,1,23,0,DAL,3PT Field Goal,11/28/08
+Jump Shot,2,7,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,2,23,0,DAL,3PT Field Goal,11/28/08
+Jump Shot,3,21,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,19,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,18,0,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,12,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,6,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,16,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,3,20,0,DAL,2PT Field Goal,11/28/08
+Jump Shot,4,19,1,DAL,2PT Field Goal,11/28/08
+Layup,4,0,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,4,24,0,DAL,3PT Field Goal,11/28/08
+Jump Shot,4,14,0,DAL,2PT Field Goal,11/28/08
+Jump Shot,4,8,1,DAL,2PT Field Goal,11/28/08
+Layup,4,0,1,DAL,2PT Field Goal,11/28/08
+Jump Shot,4,18,1,DAL,2PT Field Goal,11/28/08
+Layup,1,0,0,TOR,2PT Field Goal,11/30/08
+Jump Shot,1,17,1,TOR,2PT Field Goal,11/30/08
+Jump Shot,2,24,0,TOR,3PT Field Goal,11/30/08
+Dunk,2,0,1,TOR,2PT Field Goal,11/30/08
+Jump Shot,2,21,1,TOR,2PT Field Goal,11/30/08
+Jump Shot,2,17,1,TOR,2PT Field Goal,11/30/08
+Layup,2,0,1,TOR,2PT Field Goal,11/30/08
+Dunk,2,0,1,TOR,2PT Field Goal,11/30/08
+Jump Shot,2,20,0,TOR,2PT Field Goal,11/30/08
+Jump Shot,3,20,1,TOR,2PT Field Goal,11/30/08
+Jump Shot,3,5,0,TOR,2PT Field Goal,11/30/08
+Jump Shot,1,15,1,IND,2PT Field Goal,12/2/08
+Jump Shot,1,11,0,IND,2PT Field Goal,12/2/08
+Jump Shot,1,26,0,IND,3PT Field Goal,12/2/08
+Jump Shot,2,7,0,IND,2PT Field Goal,12/2/08
+Layup,2,4,1,IND,2PT Field Goal,12/2/08
+Layup,2,2,1,IND,2PT Field Goal,12/2/08
+Jump Shot,2,5,0,IND,2PT Field Goal,12/2/08
+Layup,2,2,1,IND,2PT Field Goal,12/2/08
+Layup,2,1,1,IND,2PT Field Goal,12/2/08
+Jump Shot,3,11,1,IND,2PT Field Goal,12/2/08
+Jump Shot,3,16,1,IND,2PT Field Goal,12/2/08
+Jump Shot,3,24,0,IND,3PT Field Goal,12/2/08
+Jump Shot,3,11,1,IND,2PT Field Goal,12/2/08
+Jump Shot,3,26,0,IND,3PT Field Goal,12/2/08
+Jump Shot,4,4,0,IND,2PT Field Goal,12/2/08
+Jump Shot,4,21,1,IND,2PT Field Goal,12/2/08
+Jump Shot,1,20,0,PHI,2PT Field Goal,12/3/08
+Jump Shot,1,15,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,1,4,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,1,18,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,1,14,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,2,4,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,2,18,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,2,23,0,PHI,3PT Field Goal,12/3/08
+Jump Shot,3,19,0,PHI,2PT Field Goal,12/3/08
+Layup,3,0,0,PHI,2PT Field Goal,12/3/08
+Jump Shot,3,23,1,PHI,3PT Field Goal,12/3/08
+Layup,4,0,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,4,17,0,PHI,2PT Field Goal,12/3/08
+Layup,4,0,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,4,21,1,PHI,2PT Field Goal,12/3/08
+Jump Shot,1,9,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,1,7,0,WAS,2PT Field Goal,12/5/08
+Dunk,1,0,1,WAS,2PT Field Goal,12/5/08
+Jump Shot,2,21,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,2,13,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,3,20,1,WAS,2PT Field Goal,12/5/08
+Jump Shot,3,17,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,3,12,0,WAS,2PT Field Goal,12/5/08
+Dunk,3,3,1,WAS,2PT Field Goal,12/5/08
+Jump Shot,4,19,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,4,18,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,4,20,0,WAS,2PT Field Goal,12/5/08
+Jump Shot,4,19,0,WAS,2PT Field Goal,12/5/08
+Bank Shot,4,12,1,WAS,2PT Field Goal,12/5/08
+Layup,1,0,0,MIL,2PT Field Goal,12/7/08
+Layup,1,0,0,MIL,2PT Field Goal,12/7/08
+Jump Shot,1,15,1,MIL,2PT Field Goal,12/7/08
+Jump Shot,1,12,1,MIL,2PT Field Goal,12/7/08
+Jump Shot,2,7,1,MIL,2PT Field Goal,12/7/08
+Layup,2,0,1,MIL,2PT Field Goal,12/7/08
+Jump Shot,2,16,0,MIL,2PT Field Goal,12/7/08
+Jump Shot,2,15,1,MIL,2PT Field Goal,12/7/08
+Dunk,3,0,1,MIL,2PT Field Goal,12/7/08
+Jump Shot,4,19,0,MIL,2PT Field Goal,12/7/08
+Layup,4,0,0,MIL,2PT Field Goal,12/7/08
+Jump Shot,1,8,1,SAC,2PT Field Goal,12/9/08
+Jump Shot,1,15,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,1,14,0,SAC,2PT Field Goal,12/9/08
+Layup,1,0,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,1,18,1,SAC,2PT Field Goal,12/9/08
+Jump Shot,1,21,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,2,20,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,2,25,0,SAC,3PT Field Goal,12/9/08
+Jump Shot,3,16,0,SAC,2PT Field Goal,12/9/08
+Layup,3,0,0,SAC,2PT Field Goal,12/9/08
+Layup,3,0,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,3,20,1,SAC,2PT Field Goal,12/9/08
+Jump Shot,3,25,1,SAC,3PT Field Goal,12/9/08
+Jump Shot,3,19,0,SAC,2PT Field Goal,12/9/08
+Jump Shot,4,25,0,SAC,3PT Field Goal,12/9/08
+Jump Shot,4,27,0,SAC,3PT Field Goal,12/9/08
+Jump Shot,4,14,1,SAC,2PT Field Goal,12/9/08
+Dunk,4,0,1,SAC,2PT Field Goal,12/9/08
+Jump Shot,4,29,1,SAC,3PT Field Goal,12/9/08
+Jump Shot,4,25,0,SAC,3PT Field Goal,12/9/08
+Jump Shot,1,22,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,1,20,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,1,19,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,1,16,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,1,18,1,PHX,2PT Field Goal,12/10/08
+Jump Shot,3,25,1,PHX,3PT Field Goal,12/10/08
+Jump Shot,3,25,0,PHX,3PT Field Goal,12/10/08
+Jump Shot,3,13,1,PHX,2PT Field Goal,12/10/08
+Jump Shot,3,25,0,PHX,3PT Field Goal,12/10/08
+Jump Shot,4,15,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,4,25,1,PHX,3PT Field Goal,12/10/08
+Jump Shot,4,18,0,PHX,2PT Field Goal,12/10/08
+Jump Shot,1,18,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,1,18,0,SAC,2PT Field Goal,12/12/08
+Jump Shot,1,27,0,SAC,3PT Field Goal,12/12/08
+Jump Shot,1,20,1,SAC,2PT Field Goal,12/12/08
+Dunk,1,0,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,1,17,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,2,26,1,SAC,3PT Field Goal,12/12/08
+Jump Shot,2,6,0,SAC,2PT Field Goal,12/12/08
+Jump Shot,2,15,0,SAC,2PT Field Goal,12/12/08
+Layup,3,0,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,3,21,0,SAC,2PT Field Goal,12/12/08
+Jump Shot,3,26,1,SAC,3PT Field Goal,12/12/08
+Jump Shot,3,25,0,SAC,3PT Field Goal,12/12/08
+Jump Shot,3,17,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,4,5,0,SAC,2PT Field Goal,12/12/08
+Jump Shot,4,12,0,SAC,2PT Field Goal,12/12/08
+Bank Shot,4,9,1,SAC,2PT Field Goal,12/12/08
+Dunk,4,0,1,SAC,2PT Field Goal,12/12/08
+Jump Shot,1,20,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,1,22,1,MIN,2PT Field Goal,12/14/08
+Jump Shot,1,14,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,1,19,0,MIN,2PT Field Goal,12/14/08
+Layup,1,0,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,2,18,1,MIN,2PT Field Goal,12/14/08
+Jump Shot,2,27,0,MIN,3PT Field Goal,12/14/08
+Jump Shot,3,16,1,MIN,2PT Field Goal,12/14/08
+Jump Shot,3,21,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,3,25,1,MIN,3PT Field Goal,12/14/08
+Jump Shot,3,17,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,3,21,0,MIN,2PT Field Goal,12/14/08
+Layup,4,0,0,MIN,2PT Field Goal,12/14/08
+Jump Shot,4,23,0,MIN,3PT Field Goal,12/14/08
+Jump Shot,4,16,0,MIN,2PT Field Goal,12/14/08
+Layup,4,0,1,MIN,2PT Field Goal,12/14/08
+Jump Shot,4,10,1,MIN,2PT Field Goal,12/14/08
+Jump Shot,4,26,0,MIN,3PT Field Goal,12/14/08
+Jump Shot,4,28,0,MIN,3PT Field Goal,12/14/08
+Jump Shot,1,27,0,NYK,3PT Field Goal,12/16/08
+Jump Shot,1,8,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,1,15,1,NYK,2PT Field Goal,12/16/08
+Layup,1,0,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,1,4,0,NYK,2PT Field Goal,12/16/08
+Layup,2,0,0,NYK,2PT Field Goal,12/16/08
+Jump Shot,2,19,0,NYK,2PT Field Goal,12/16/08
+Bank Shot,2,6,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,21,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,16,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,16,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,8,0,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,7,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,3,17,0,NYK,2PT Field Goal,12/16/08
+Jump Shot,4,17,1,NYK,2PT Field Goal,12/16/08
+Dunk,4,0,1,NYK,2PT Field Goal,12/16/08
+Jump Shot,4,23,1,NYK,3PT Field Goal,12/16/08
+Jump Shot,4,7,0,NYK,2PT Field Goal,12/16/08
+Jump Shot,4,18,1,NYK,2PT Field Goal,12/16/08
+Layup,1,0,1,MIA,2PT Field Goal,12/19/08
+Jump Shot,1,20,0,MIA,2PT Field Goal,12/19/08
+Layup,1,0,1,MIA,2PT Field Goal,12/19/08
+Layup,2,0,1,MIA,2PT Field Goal,12/19/08
+Jump Shot,2,19,1,MIA,2PT Field Goal,12/19/08
+Layup,2,0,0,MIA,2PT Field Goal,12/19/08
+Jump Shot,2,25,1,MIA,3PT Field Goal,12/19/08
+Jump Shot,2,20,0,MIA,2PT Field Goal,12/19/08
+Jump Shot,2,24,0,MIA,3PT Field Goal,12/19/08
+Layup,2,0,1,MIA,2PT Field Goal,12/19/08
+Jump Shot,3,22,0,MIA,2PT Field Goal,12/19/08
+Dunk,3,0,0,MIA,2PT Field Goal,12/19/08
+Jump Shot,3,15,1,MIA,2PT Field Goal,12/19/08
+Layup,3,0,1,MIA,2PT Field Goal,12/19/08
+Jump Shot,3,15,0,MIA,2PT Field Goal,12/19/08
+Jump Shot,3,7,1,MIA,2PT Field Goal,12/19/08
+Jump Shot,3,25,0,MIA,3PT Field Goal,12/19/08
+Jump Shot,4,19,0,MIA,2PT Field Goal,12/19/08
+Jump Shot,1,20,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,20,0,ORL,2PT Field Goal,12/20/08
+Bank Shot,1,14,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,19,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,9,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,12,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,8,0,ORL,2PT Field Goal,12/20/08
+Layup,1,0,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,1,17,0,ORL,2PT Field Goal,12/20/08
+Layup,2,0,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,18,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,16,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,14,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,20,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,15,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,2,15,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,3,16,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,3,8,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,3,24,1,ORL,3PT Field Goal,12/20/08
+Jump Shot,3,26,1,ORL,3PT Field Goal,12/20/08
+Jump Shot,3,17,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,4,15,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,4,9,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,4,10,0,ORL,2PT Field Goal,12/20/08
+Layup,4,0,1,ORL,2PT Field Goal,12/20/08
+Jump Shot,4,19,0,ORL,2PT Field Goal,12/20/08
+Jump Shot,4,30,0,ORL,3PT Field Goal,12/20/08
+Jump Shot,1,6,0,MEM,2PT Field Goal,12/22/08
+Jump Shot,1,6,0,MEM,2PT Field Goal,12/22/08
+Jump Shot,1,15,1,MEM,2PT Field Goal,12/22/08
+Layup,1,0,1,MEM,2PT Field Goal,12/22/08
+Jump Shot,1,25,0,MEM,3PT Field Goal,12/22/08
+Layup,1,0,1,MEM,2PT Field Goal,12/22/08
+Layup,2,0,0,MEM,2PT Field Goal,12/22/08
+Jump Shot,2,14,1,MEM,2PT Field Goal,12/22/08
+Jump Shot,2,26,1,MEM,3PT Field Goal,12/22/08
+Jump Shot,2,26,0,MEM,3PT Field Goal,12/22/08
+Jump Shot,2,10,0,MEM,2PT Field Goal,12/22/08
+Jump Shot,3,6,1,MEM,2PT Field Goal,12/22/08
+Jump Shot,3,20,0,MEM,2PT Field Goal,12/22/08
+Bank Shot,3,9,0,MEM,2PT Field Goal,12/22/08
+Jump Shot,4,28,0,MEM,3PT Field Goal,12/22/08
+Layup,4,0,1,MEM,2PT Field Goal,12/22/08
+Dunk,4,0,1,MEM,2PT Field Goal,12/22/08
+Jump Shot,1,15,1,NOH,2PT Field Goal,12/23/08
+Jump Shot,2,14,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,2,16,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,2,19,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,2,10,0,NOH,2PT Field Goal,12/23/08
+Dunk,2,0,1,NOH,2PT Field Goal,12/23/08
+Jump Shot,2,22,0,NOH,3PT Field Goal,12/23/08
+Jump Shot,3,10,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,3,22,1,NOH,2PT Field Goal,12/23/08
+Jump Shot,3,7,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,4,16,0,NOH,2PT Field Goal,12/23/08
+Jump Shot,4,22,1,NOH,2PT Field Goal,12/23/08
+Jump Shot,4,19,1,NOH,2PT Field Goal,12/23/08
+Jump Shot,1,23,0,BOS,3PT Field Goal,12/25/08
+Layup,1,0,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,1,16,0,BOS,2PT Field Goal,12/25/08
+Jump Shot,1,15,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,1,14,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,1,18,1,BOS,2PT Field Goal,12/25/08
+Layup,1,0,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,2,22,1,BOS,2PT Field Goal,12/25/08
+Layup,2,0,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,2,17,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,2,20,0,BOS,2PT Field Goal,12/25/08
+Jump Shot,3,18,0,BOS,2PT Field Goal,12/25/08
+Dunk,3,0,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,3,12,0,BOS,2PT Field Goal,12/25/08
+Jump Shot,3,25,1,BOS,3PT Field Goal,12/25/08
+Layup,3,0,0,BOS,2PT Field Goal,12/25/08
+Jump Shot,3,6,0,BOS,2PT Field Goal,12/25/08
+Jump Shot,4,17,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,4,17,1,BOS,2PT Field Goal,12/25/08
+Layup,4,0,1,BOS,2PT Field Goal,12/25/08
+Jump Shot,1,21,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,1,19,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,1,25,1,GSW,3PT Field Goal,12/28/08
+Jump Shot,1,20,0,GSW,2PT Field Goal,12/28/08
+Jump Shot,1,25,0,GSW,3PT Field Goal,12/28/08
+Jump Shot,1,17,0,GSW,2PT Field Goal,12/28/08
+Layup,2,0,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,2,26,0,GSW,3PT Field Goal,12/28/08
+Jump Shot,2,10,0,GSW,2PT Field Goal,12/28/08
+Layup,2,0,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,3,6,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,3,24,1,GSW,3PT Field Goal,12/28/08
+Jump Shot,3,18,1,GSW,2PT Field Goal,12/28/08
+Jump Shot,3,23,1,GSW,3PT Field Goal,12/28/08
+Dunk,1,0,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,1,12,0,UTA,2PT Field Goal,1/2/09
+Dunk,2,0,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,2,22,1,UTA,3PT Field Goal,1/2/09
+Jump Shot,2,25,0,UTA,3PT Field Goal,1/2/09
+Jump Shot,2,7,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,6,0,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,8,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,10,0,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,6,0,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,19,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,7,0,UTA,2PT Field Goal,1/2/09
+Jump Shot,3,11,0,UTA,2PT Field Goal,1/2/09
+Layup,3,0,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,4,19,1,UTA,2PT Field Goal,1/2/09
+Layup,4,0,0,UTA,2PT Field Goal,1/2/09
+Dunk,4,0,1,UTA,2PT Field Goal,1/2/09
+Jump Shot,4,16,0,UTA,2PT Field Goal,1/2/09
+Layup,4,0,0,UTA,2PT Field Goal,1/2/09
+Jump Shot,4,25,1,UTA,3PT Field Goal,1/2/09
+Jump Shot,1,9,0,POR,2PT Field Goal,1/4/09
+Layup,1,0,1,POR,2PT Field Goal,1/4/09
+Jump Shot,1,21,1,POR,2PT Field Goal,1/4/09
+Jump Shot,2,17,0,POR,2PT Field Goal,1/4/09
+Layup,2,0,1,POR,2PT Field Goal,1/4/09
+Jump Shot,2,13,1,POR,2PT Field Goal,1/4/09
+Jump Shot,2,11,1,POR,2PT Field Goal,1/4/09
+Jump Shot,3,23,0,POR,2PT Field Goal,1/4/09
+Jump Shot,3,5,1,POR,2PT Field Goal,1/4/09
+Jump Shot,3,10,1,POR,2PT Field Goal,1/4/09
+Layup,3,0,0,POR,2PT Field Goal,1/4/09
+Jump Shot,4,22,0,POR,3PT Field Goal,1/4/09
+Jump Shot,4,7,0,POR,2PT Field Goal,1/4/09
+Jump Shot,1,15,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,1,9,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,1,18,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,1,21,0,NOH,2PT Field Goal,1/6/09
+Jump Shot,1,15,0,NOH,2PT Field Goal,1/6/09
+Jump Shot,2,26,1,NOH,3PT Field Goal,1/6/09
+Jump Shot,3,21,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,3,17,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,3,28,1,NOH,3PT Field Goal,1/6/09
+Jump Shot,3,27,1,NOH,3PT Field Goal,1/6/09
+Jump Shot,3,18,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,3,27,1,NOH,3PT Field Goal,1/6/09
+Layup,4,0,1,NOH,2PT Field Goal,1/6/09
+Jump Shot,4,18,0,NOH,2PT Field Goal,1/6/09
+Jump Shot,4,26,0,NOH,3PT Field Goal,1/6/09
+Jump Shot,1,6,1,GSW,2PT Field Goal,1/7/09
+Layup,1,1,1,GSW,2PT Field Goal,1/7/09
+Layup,1,3,0,GSW,2PT Field Goal,1/7/09
+Dunk,1,0,1,GSW,2PT Field Goal,1/7/09
+Jump Shot,2,5,0,GSW,2PT Field Goal,1/7/09
+Jump Shot,3,26,1,GSW,3PT Field Goal,1/7/09
+Jump Shot,3,27,0,GSW,3PT Field Goal,1/7/09
+Jump Shot,3,26,0,GSW,3PT Field Goal,1/7/09
+Jump Shot,3,27,0,GSW,3PT Field Goal,1/7/09
+Jump Shot,3,19,0,GSW,2PT Field Goal,1/7/09
+Jump Shot,4,17,0,GSW,2PT Field Goal,1/7/09
+Layup,4,0,1,GSW,2PT Field Goal,1/7/09
+Jump Shot,4,13,0,GSW,2PT Field Goal,1/7/09
+Layup,4,1,1,GSW,2PT Field Goal,1/7/09
+Jump Shot,4,4,0,GSW,2PT Field Goal,1/7/09
+Jump Shot,1,6,0,IND,2PT Field Goal,1/9/09
+Jump Shot,1,24,1,IND,3PT Field Goal,1/9/09
+Jump Shot,1,19,0,IND,2PT Field Goal,1/9/09
+Jump Shot,1,20,1,IND,2PT Field Goal,1/9/09
+Jump Shot,2,27,0,IND,3PT Field Goal,1/9/09
+Jump Shot,2,13,1,IND,2PT Field Goal,1/9/09
+Jump Shot,3,7,1,IND,2PT Field Goal,1/9/09
+Jump Shot,3,6,1,IND,2PT Field Goal,1/9/09
+Jump Shot,3,21,1,IND,2PT Field Goal,1/9/09
+Jump Shot,3,12,0,IND,2PT Field Goal,1/9/09
+Jump Shot,3,22,0,IND,3PT Field Goal,1/9/09
+Bank Shot,3,5,1,IND,2PT Field Goal,1/9/09
+Jump Shot,3,19,0,IND,2PT Field Goal,1/9/09
+Jump Shot,4,9,0,IND,2PT Field Goal,1/9/09
+Jump Shot,4,25,0,IND,3PT Field Goal,1/9/09
+Jump Shot,4,17,0,IND,2PT Field Goal,1/9/09
+Jump Shot,4,15,1,IND,2PT Field Goal,1/9/09
+Jump Shot,4,15,0,IND,2PT Field Goal,1/9/09
+Jump Shot,4,19,1,IND,2PT Field Goal,1/9/09
+Jump Shot,4,17,1,IND,2PT Field Goal,1/9/09
+Jump Shot,1,28,1,MIA,3PT Field Goal,1/11/09
+Jump Shot,2,23,0,MIA,3PT Field Goal,1/11/09
+Jump Shot,2,26,0,MIA,3PT Field Goal,1/11/09
+Jump Shot,3,15,0,MIA,2PT Field Goal,1/11/09
+Layup,3,0,0,MIA,2PT Field Goal,1/11/09
+Layup,3,0,1,MIA,2PT Field Goal,1/11/09
+Jump Shot,3,25,1,MIA,3PT Field Goal,1/11/09
+Jump Shot,3,22,0,MIA,2PT Field Goal,1/11/09
+Layup,3,0,1,MIA,2PT Field Goal,1/11/09
+Jump Shot,4,16,0,MIA,2PT Field Goal,1/11/09
+Jump Shot,4,16,0,MIA,2PT Field Goal,1/11/09
+Layup,4,0,0,MIA,2PT Field Goal,1/11/09
+Jump Shot,1,8,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,1,5,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,1,6,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,1,13,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,1,25,0,HOU,3PT Field Goal,1/13/09
+Jump Shot,1,21,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,2,17,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,2,7,1,HOU,2PT Field Goal,1/13/09
+Layup,2,0,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,2,21,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,2,10,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,2,10,0,HOU,2PT Field Goal,1/13/09
+Layup,2,0,0,HOU,2PT Field Goal,1/13/09
+Layup,3,0,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,3,9,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,3,12,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,3,4,0,HOU,2PT Field Goal,1/13/09
+Layup,3,0,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,17,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,10,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,9,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,17,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,9,0,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,17,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,17,1,HOU,2PT Field Goal,1/13/09
+Jump Shot,4,27,1,HOU,3PT Field Goal,1/13/09
+Jump Shot,1,15,0,SAS,2PT Field Goal,1/14/09
+Jump Shot,2,20,0,SAS,2PT Field Goal,1/14/09
+Jump Shot,2,19,0,SAS,2PT Field Goal,1/14/09
+Jump Shot,2,9,1,SAS,2PT Field Goal,1/14/09
+Jump Shot,2,10,1,SAS,2PT Field Goal,1/14/09
+Hook Shot,2,5,1,SAS,2PT Field Goal,1/14/09
+Jump Shot,2,19,1,SAS,2PT Field Goal,1/14/09
+Layup,3,2,0,SAS,2PT Field Goal,1/14/09
+Layup,3,1,0,SAS,2PT Field Goal,1/14/09
+Jump Shot,3,7,1,SAS,2PT Field Goal,1/14/09
+Jump Shot,3,24,0,SAS,3PT Field Goal,1/14/09
+Jump Shot,4,22,1,SAS,3PT Field Goal,1/14/09
+Layup,4,3,0,SAS,2PT Field Goal,1/14/09
+Bank Shot,4,7,1,SAS,2PT Field Goal,1/14/09
+Jump Shot,4,24,1,SAS,3PT Field Goal,1/14/09
+Jump Shot,1,13,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,1,21,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,2,17,1,ORL,2PT Field Goal,1/16/09
+Layup,2,0,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,2,11,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,2,19,1,ORL,2PT Field Goal,1/16/09
+Layup,3,0,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,3,16,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,3,12,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,3,25,1,ORL,3PT Field Goal,1/16/09
+Jump Shot,3,8,0,ORL,2PT Field Goal,1/16/09
+Layup,3,0,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,4,17,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,4,16,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,4,27,0,ORL,3PT Field Goal,1/16/09
+Jump Shot,4,21,0,ORL,2PT Field Goal,1/16/09
+Layup,4,0,1,ORL,2PT Field Goal,1/16/09
+Jump Shot,4,14,0,ORL,2PT Field Goal,1/16/09
+Jump Shot,4,27,0,ORL,3PT Field Goal,1/16/09
+Jump Shot,4,26,0,ORL,3PT Field Goal,1/16/09
+Jump Shot,4,23,0,ORL,3PT Field Goal,1/16/09
+Jump Shot,1,11,1,CLE,2PT Field Goal,1/19/09
+Jump Shot,2,20,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,2,18,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,3,17,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,3,23,0,CLE,3PT Field Goal,1/19/09
+Hook Shot,3,6,0,CLE,2PT Field Goal,1/19/09
+Layup,3,0,1,CLE,2PT Field Goal,1/19/09
+Jump Shot,3,10,1,CLE,2PT Field Goal,1/19/09
+Jump Shot,3,23,0,CLE,3PT Field Goal,1/19/09
+Layup,3,0,1,CLE,2PT Field Goal,1/19/09
+Jump Shot,3,25,0,CLE,3PT Field Goal,1/19/09
+Jump Shot,4,22,1,CLE,3PT Field Goal,1/19/09
+Layup,4,0,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,4,12,1,CLE,2PT Field Goal,1/19/09
+Layup,4,0,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,4,25,0,CLE,3PT Field Goal,1/19/09
+Dunk,4,0,1,CLE,2PT Field Goal,1/19/09
+Jump Shot,4,20,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,4,19,0,CLE,2PT Field Goal,1/19/09
+Jump Shot,1,24,0,LAC,3PT Field Goal,1/21/09
+Jump Shot,2,28,1,LAC,3PT Field Goal,1/21/09
+Jump Shot,2,26,1,LAC,3PT Field Goal,1/21/09
+Jump Shot,2,26,0,LAC,3PT Field Goal,1/21/09
+Layup,3,0,1,LAC,2PT Field Goal,1/21/09
+Layup,3,0,1,LAC,2PT Field Goal,1/21/09
+Jump Shot,3,26,0,LAC,3PT Field Goal,1/21/09
+Jump Shot,4,6,0,LAC,2PT Field Goal,1/21/09
+Jump Shot,4,11,0,LAC,2PT Field Goal,1/21/09
+Layup,4,0,0,LAC,2PT Field Goal,1/21/09
+Layup,1,0,0,WAS,2PT Field Goal,1/22/09
+Layup,1,0,1,WAS,2PT Field Goal,1/22/09
+Jump Shot,1,24,0,WAS,3PT Field Goal,1/22/09
+Jump Shot,1,20,1,WAS,2PT Field Goal,1/22/09
+Jump Shot,2,27,1,WAS,3PT Field Goal,1/22/09
+Jump Shot,3,19,0,WAS,2PT Field Goal,1/22/09
+Jump Shot,3,25,0,WAS,3PT Field Goal,1/22/09
+Jump Shot,3,22,0,WAS,2PT Field Goal,1/22/09
+Jump Shot,1,18,1,SAS,2PT Field Goal,1/25/09
+Jump Shot,1,27,0,SAS,3PT Field Goal,1/25/09
+Jump Shot,1,8,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,2,21,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,2,4,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,2,27,1,SAS,3PT Field Goal,1/25/09
+Jump Shot,2,17,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,2,19,1,SAS,2PT Field Goal,1/25/09
+Jump Shot,3,25,1,SAS,3PT Field Goal,1/25/09
+Jump Shot,3,16,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,3,7,1,SAS,2PT Field Goal,1/25/09
+Jump Shot,3,18,0,SAS,2PT Field Goal,1/25/09
+Jump Shot,3,20,1,SAS,2PT Field Goal,1/25/09
+Jump Shot,1,16,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,1,19,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,1,17,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,2,21,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,2,12,1,CHA,2PT Field Goal,1/27/09
+Dunk,2,0,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,2,19,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,2,15,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,3,16,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,3,13,1,CHA,2PT Field Goal,1/27/09
+Layup,3,0,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,3,16,0,CHA,2PT Field Goal,1/27/09
+Tip Shot,3,0,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,3,16,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,14,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,12,0,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,13,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,24,0,CHA,3PT Field Goal,1/27/09
+Jump Shot,4,13,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,17,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,4,24,1,CHA,3PT Field Goal,1/27/09
+Jump Shot,5,15,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,5,15,0,CHA,2PT Field Goal,1/27/09
+Layup,5,0,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,5,11,1,CHA,2PT Field Goal,1/27/09
+Jump Shot,1,23,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,11,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,13,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,25,0,MIN,3PT Field Goal,1/30/09
+Jump Shot,1,16,0,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,12,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,19,0,MIN,2PT Field Goal,1/30/09
+Layup,2,0,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,2,25,0,MIN,3PT Field Goal,1/30/09
+Jump Shot,2,12,0,MIN,2PT Field Goal,1/30/09
+Jump Shot,3,19,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,3,13,0,MIN,2PT Field Goal,1/30/09
+Jump Shot,3,24,1,MIN,3PT Field Goal,1/30/09
+Jump Shot,3,26,0,MIN,3PT Field Goal,1/30/09
+Layup,3,0,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,3,15,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,4,22,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,4,16,1,MIN,2PT Field Goal,1/30/09
+Jump Shot,1,11,0,MEM,2PT Field Goal,1/31/09
+Layup,1,0,0,MEM,2PT Field Goal,1/31/09
+Jump Shot,1,15,0,MEM,2PT Field Goal,1/31/09
+Dunk,2,0,1,MEM,2PT Field Goal,1/31/09
+Layup,2,0,0,MEM,2PT Field Goal,1/31/09
+Layup,2,0,0,MEM,2PT Field Goal,1/31/09
+Layup,2,0,1,MEM,2PT Field Goal,1/31/09
+Layup,3,0,1,MEM,2PT Field Goal,1/31/09
+Layup,3,0,1,MEM,2PT Field Goal,1/31/09
+Layup,3,0,0,MEM,2PT Field Goal,1/31/09
+Jump Shot,3,16,0,MEM,2PT Field Goal,1/31/09
+Jump Shot,3,13,1,MEM,2PT Field Goal,1/31/09
+Jump Shot,3,10,1,MEM,2PT Field Goal,1/31/09
+Jump Shot,4,25,0,MEM,3PT Field Goal,1/31/09
+Jump Shot,4,7,1,MEM,2PT Field Goal,1/31/09
+Jump Shot,4,5,1,MEM,2PT Field Goal,1/31/09
+Jump Shot,1,20,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,24,1,NYK,3PT Field Goal,2/2/09
+Jump Shot,1,20,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,19,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,25,0,NYK,3PT Field Goal,2/2/09
+Layup,1,0,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,15,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,15,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,24,1,NYK,3PT Field Goal,2/2/09
+Layup,1,0,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,23,1,NYK,3PT Field Goal,2/2/09
+Jump Shot,2,19,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,19,1,NYK,2PT Field Goal,2/2/09
+Dunk,2,0,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,5,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,24,0,NYK,3PT Field Goal,2/2/09
+Dunk,2,0,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,18,0,NYK,2PT Field Goal,2/2/09
+Layup,2,0,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,2,9,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,3,24,0,NYK,3PT Field Goal,2/2/09
+Jump Shot,3,8,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,3,10,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,3,5,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,3,19,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,4,14,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,4,16,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,4,12,0,NYK,2PT Field Goal,2/2/09
+Jump Shot,4,12,1,NYK,2PT Field Goal,2/2/09
+Jump Shot,1,14,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,1,13,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,1,15,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,1,24,1,TOR,3PT Field Goal,2/4/09
+Jump Shot,1,24,1,TOR,3PT Field Goal,2/4/09
+Jump Shot,1,25,1,TOR,3PT Field Goal,2/4/09
+Layup,1,0,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,2,9,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,2,23,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,2,16,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,2,24,0,TOR,3PT Field Goal,2/4/09
+Jump Shot,3,24,0,TOR,3PT Field Goal,2/4/09
+Jump Shot,3,23,1,TOR,3PT Field Goal,2/4/09
+Jump Shot,3,21,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,3,22,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,22,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,21,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,25,0,TOR,3PT Field Goal,2/4/09
+Jump Shot,4,21,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,17,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,16,0,TOR,2PT Field Goal,2/4/09
+Jump Shot,4,16,1,TOR,2PT Field Goal,2/4/09
+Jump Shot,1,16,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,1,9,1,BOS,2PT Field Goal,2/5/09
+Layup,1,0,1,BOS,2PT Field Goal,2/5/09
+Jump Shot,1,10,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,1,19,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,1,12,1,BOS,2PT Field Goal,2/5/09
+Jump Shot,2,16,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,2,24,1,BOS,3PT Field Goal,2/5/09
+Layup,2,0,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,2,18,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,3,24,0,BOS,3PT Field Goal,2/5/09
+Jump Shot,3,14,0,BOS,2PT Field Goal,2/5/09
+Bank Shot,3,7,1,BOS,2PT Field Goal,2/5/09
+Jump Shot,3,20,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,4,15,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,4,25,1,BOS,3PT Field Goal,2/5/09
+Jump Shot,4,25,1,BOS,3PT Field Goal,2/5/09
+Jump Shot,4,22,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,5,25,0,BOS,3PT Field Goal,2/5/09
+Jump Shot,5,25,0,BOS,3PT Field Goal,2/5/09
+Jump Shot,5,20,0,BOS,2PT Field Goal,2/5/09
+Jump Shot,1,18,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,1,6,1,CLE,2PT Field Goal,2/8/09
+Jump Shot,1,8,1,CLE,2PT Field Goal,2/8/09
+Jump Shot,1,15,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,1,10,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,1,17,1,CLE,2PT Field Goal,2/8/09
+Jump Shot,2,16,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,2,21,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,3,20,1,CLE,2PT Field Goal,2/8/09
+Jump Shot,3,11,1,CLE,2PT Field Goal,2/8/09
+Jump Shot,3,10,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,3,27,0,CLE,3PT Field Goal,2/8/09
+Jump Shot,4,16,0,CLE,2PT Field Goal,2/8/09
+Jump Shot,4,30,0,CLE,3PT Field Goal,2/8/09
+Jump Shot,1,8,0,OKC,2PT Field Goal,2/10/09
+Jump Shot,1,16,0,OKC,2PT Field Goal,2/10/09
+Jump Shot,1,13,0,OKC,2PT Field Goal,2/10/09
+Layup,1,0,1,OKC,2PT Field Goal,2/10/09
+Jump Shot,1,9,0,OKC,2PT Field Goal,2/10/09
+Layup,1,0,1,OKC,2PT Field Goal,2/10/09
+Layup,1,0,1,OKC,2PT Field Goal,2/10/09
+Jump Shot,1,8,1,OKC,2PT Field Goal,2/10/09
+Dunk,1,0,1,OKC,2PT Field Goal,2/10/09
+Layup,2,0,1,OKC,2PT Field Goal,2/10/09
+Bank Shot,2,7,0,OKC,2PT Field Goal,2/10/09
+Layup,2,0,1,OKC,2PT Field Goal,2/10/09
+Bank Shot,2,11,0,OKC,2PT Field Goal,2/10/09
+Dunk,2,0,1,OKC,2PT Field Goal,2/10/09
+Jump Shot,3,25,0,OKC,3PT Field Goal,2/10/09
+Jump Shot,3,15,1,OKC,2PT Field Goal,2/10/09
+Bank Shot,3,10,1,OKC,2PT Field Goal,2/10/09
+Jump Shot,3,12,0,OKC,2PT Field Goal,2/10/09
+Jump Shot,4,25,0,OKC,3PT Field Goal,2/10/09
+Jump Shot,4,22,1,OKC,2PT Field Goal,2/10/09
+Layup,4,0,1,OKC,2PT Field Goal,2/10/09
+Jump Shot,4,24,0,OKC,3PT Field Goal,2/10/09
+Jump Shot,4,16,0,OKC,2PT Field Goal,2/10/09
+Layup,1,0,1,UTA,2PT Field Goal,2/11/09
+Layup,1,0,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,1,8,1,UTA,2PT Field Goal,2/11/09
+Layup,1,0,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,1,7,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,1,14,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,1,24,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,1,6,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,2,8,0,UTA,2PT Field Goal,2/11/09
+Layup,2,0,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,2,16,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,2,6,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,15,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,22,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,11,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,19,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,10,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,5,1,UTA,2PT Field Goal,2/11/09
+Layup,3,0,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,3,25,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,3,17,1,UTA,2PT Field Goal,2/11/09
+Jump Shot,4,19,0,UTA,2PT Field Goal,2/11/09
+Jump Shot,4,24,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,4,24,1,UTA,3PT Field Goal,2/11/09
+Jump Shot,4,22,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,4,25,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,4,27,0,UTA,3PT Field Goal,2/11/09
+Jump Shot,1,17,0,ATL,2PT Field Goal,2/17/09
+Jump Shot,1,10,0,ATL,2PT Field Goal,2/17/09
+Jump Shot,1,18,0,ATL,2PT Field Goal,2/17/09
+Jump Shot,1,7,1,ATL,2PT Field Goal,2/17/09
+Jump Shot,1,23,0,ATL,2PT Field Goal,2/17/09
+Jump Shot,2,19,1,ATL,2PT Field Goal,2/17/09
+Jump Shot,3,26,1,ATL,3PT Field Goal,2/17/09
+Jump Shot,3,26,0,ATL,3PT Field Goal,2/17/09
+Jump Shot,3,21,0,ATL,2PT Field Goal,2/17/09
+Jump Shot,3,25,1,ATL,3PT Field Goal,2/17/09
+Layup,1,0,1,GSW,2PT Field Goal,2/18/09
+Jump Shot,1,19,0,GSW,2PT Field Goal,2/18/09
+Layup,1,2,0,GSW,2PT Field Goal,2/18/09
+Dunk,1,1,1,GSW,2PT Field Goal,2/18/09
+Jump Shot,2,14,1,GSW,2PT Field Goal,2/18/09
+Jump Shot,2,10,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,2,3,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,2,18,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,3,10,1,GSW,2PT Field Goal,2/18/09
+Jump Shot,3,14,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,3,26,0,GSW,3PT Field Goal,2/18/09
+Jump Shot,3,11,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,4,27,1,GSW,3PT Field Goal,2/18/09
+Jump Shot,4,15,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,4,14,0,GSW,2PT Field Goal,2/18/09
+Layup,4,2,0,GSW,2PT Field Goal,2/18/09
+Jump Shot,4,11,1,GSW,2PT Field Goal,2/18/09
+Jump Shot,1,5,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,1,15,0,NOH,2PT Field Goal,2/20/09
+Layup,1,0,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,1,13,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,1,14,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,2,16,0,NOH,2PT Field Goal,2/20/09
+Layup,2,0,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,2,25,1,NOH,3PT Field Goal,2/20/09
+Dunk,2,0,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,2,6,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,3,6,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,3,10,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,3,13,0,NOH,2PT Field Goal,2/20/09
+Layup,3,0,1,NOH,2PT Field Goal,2/20/09
+Layup,3,0,1,NOH,2PT Field Goal,2/20/09
+Dunk,3,0,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,4,19,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,4,20,0,NOH,2PT Field Goal,2/20/09
+Jump Shot,5,12,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,5,16,0,NOH,2PT Field Goal,2/20/09
+Layup,5,0,1,NOH,2PT Field Goal,2/20/09
+Jump Shot,1,10,1,MIN,2PT Field Goal,2/22/09
+Bank Shot,1,11,1,MIN,2PT Field Goal,2/22/09
+Jump Shot,1,5,0,MIN,2PT Field Goal,2/22/09
+Dunk,1,0,1,MIN,2PT Field Goal,2/22/09
+Jump Shot,2,8,1,MIN,2PT Field Goal,2/22/09
+Dunk,3,0,1,MIN,2PT Field Goal,2/22/09
+Layup,3,0,1,MIN,2PT Field Goal,2/22/09
+Layup,3,0,0,MIN,2PT Field Goal,2/22/09
+Jump Shot,3,18,0,MIN,2PT Field Goal,2/22/09
+Jump Shot,3,15,0,MIN,2PT Field Goal,2/22/09
+Jump Shot,3,20,1,MIN,2PT Field Goal,2/22/09
+Jump Shot,4,8,0,MIN,2PT Field Goal,2/22/09
+Layup,4,0,1,MIN,2PT Field Goal,2/22/09
+Jump Shot,4,13,1,MIN,2PT Field Goal,2/22/09
+Layup,4,0,0,MIN,2PT Field Goal,2/22/09
+Jump Shot,4,25,0,MIN,3PT Field Goal,2/22/09
+Jump Shot,1,13,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,1,17,0,OKC,2PT Field Goal,2/24/09
+Jump Shot,1,12,0,OKC,2PT Field Goal,2/24/09
+Jump Shot,1,25,0,OKC,3PT Field Goal,2/24/09
+Jump Shot,2,16,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,2,26,0,OKC,3PT Field Goal,2/24/09
+Jump Shot,3,15,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,3,12,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,4,16,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,4,14,1,OKC,2PT Field Goal,2/24/09
+Layup,4,1,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,4,17,1,OKC,2PT Field Goal,2/24/09
+Layup,4,0,1,OKC,2PT Field Goal,2/24/09
+Jump Shot,1,12,1,PHX,2PT Field Goal,2/26/09
+Jump Shot,1,23,1,PHX,2PT Field Goal,2/26/09
+Jump Shot,1,21,1,PHX,2PT Field Goal,2/26/09
+Layup,1,0,1,PHX,2PT Field Goal,2/26/09
+Jump Shot,2,20,0,PHX,2PT Field Goal,2/26/09
+Jump Shot,3,26,0,PHX,3PT Field Goal,2/26/09
+Layup,3,0,0,PHX,2PT Field Goal,2/26/09
+Bank Shot,3,15,1,PHX,2PT Field Goal,2/26/09
+Dunk,3,0,1,PHX,2PT Field Goal,2/26/09
+Jump Shot,3,18,1,PHX,2PT Field Goal,2/26/09
+Jump Shot,3,23,1,PHX,3PT Field Goal,2/26/09
+Jump Shot,1,17,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,1,10,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,1,25,0,DEN,3PT Field Goal,2/27/09
+Jump Shot,1,23,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,1,16,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,1,17,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,16,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,19,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,17,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,22,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,24,0,DEN,3PT Field Goal,2/27/09
+Jump Shot,2,18,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,2,9,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,3,25,0,DEN,3PT Field Goal,2/27/09
+Jump Shot,3,9,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,3,15,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,3,19,0,DEN,2PT Field Goal,2/27/09
+Layup,3,0,1,DEN,2PT Field Goal,2/27/09
+Layup,3,0,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,4,19,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,4,19,1,DEN,2PT Field Goal,2/27/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,2/27/09
+Jump Shot,4,5,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,2/27/09
+Bank Shot,4,9,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,4,26,0,DEN,3PT Field Goal,2/27/09
+Jump Shot,4,13,0,DEN,2PT Field Goal,2/27/09
+Jump Shot,1,22,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,22,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,20,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,22,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,10,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,21,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,1,13,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,2,19,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,2,20,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,2,21,0,PHX,2PT Field Goal,3/1/09
+Layup,2,0,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,2,19,0,PHX,2PT Field Goal,3/1/09
+Layup,2,0,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,2,3,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,3,8,1,PHX,2PT Field Goal,3/1/09
+Bank Shot,3,8,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,3,26,1,PHX,3PT Field Goal,3/1/09
+Layup,3,0,1,PHX,2PT Field Goal,3/1/09
+Layup,3,0,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,3,25,1,PHX,3PT Field Goal,3/1/09
+Jump Shot,3,25,0,PHX,3PT Field Goal,3/1/09
+Jump Shot,3,20,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,3,10,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,3,7,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,4,25,1,PHX,3PT Field Goal,3/1/09
+Jump Shot,4,26,0,PHX,3PT Field Goal,3/1/09
+Dunk,4,0,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,4,24,0,PHX,3PT Field Goal,3/1/09
+Jump Shot,4,9,0,PHX,2PT Field Goal,3/1/09
+Dunk,4,0,1,PHX,2PT Field Goal,3/1/09
+Jump Shot,4,10,0,PHX,2PT Field Goal,3/1/09
+Jump Shot,4,25,0,PHX,3PT Field Goal,3/1/09
+Layup,1,0,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,1,11,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,1,25,1,MEM,3PT Field Goal,3/3/09
+Jump Shot,2,13,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,24,0,MEM,3PT Field Goal,3/3/09
+Jump Shot,2,27,0,MEM,3PT Field Goal,3/3/09
+Layup,2,0,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,9,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,9,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,22,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,17,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,2,28,0,MEM,3PT Field Goal,3/3/09
+Jump Shot,3,17,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,3,17,1,MEM,2PT Field Goal,3/3/09
+Dunk,3,0,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,3,19,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,3,17,0,MEM,2PT Field Goal,3/3/09
+Hook Shot,3,9,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,3,17,0,MEM,2PT Field Goal,3/3/09
+Jump Shot,3,25,0,MEM,3PT Field Goal,3/3/09
+Jump Shot,3,20,1,MEM,2PT Field Goal,3/3/09
+Jump Shot,1,20,1,MIN,2PT Field Goal,3/6/09
+Jump Shot,1,26,0,MIN,3PT Field Goal,3/6/09
+Jump Shot,1,16,0,MIN,2PT Field Goal,3/6/09
+Jump Shot,2,26,0,MIN,3PT Field Goal,3/6/09
+Jump Shot,2,12,1,MIN,2PT Field Goal,3/6/09
+Bank Shot,2,13,1,MIN,2PT Field Goal,3/6/09
+Jump Shot,2,21,1,MIN,2PT Field Goal,3/6/09
+Jump Shot,2,26,0,MIN,3PT Field Goal,3/6/09
+Jump Shot,3,15,0,MIN,2PT Field Goal,3/6/09
+Jump Shot,3,11,1,MIN,2PT Field Goal,3/6/09
+Jump Shot,3,25,0,MIN,3PT Field Goal,3/6/09
+Layup,1,0,1,POR,2PT Field Goal,3/9/09
+Jump Shot,1,18,1,POR,2PT Field Goal,3/9/09
+Jump Shot,1,10,0,POR,2PT Field Goal,3/9/09
+Layup,1,0,1,POR,2PT Field Goal,3/9/09
+Jump Shot,1,19,0,POR,2PT Field Goal,3/9/09
+Jump Shot,1,20,0,POR,2PT Field Goal,3/9/09
+Jump Shot,1,8,0,POR,2PT Field Goal,3/9/09
+Jump Shot,1,24,0,POR,3PT Field Goal,3/9/09
+Jump Shot,2,16,1,POR,2PT Field Goal,3/9/09
+Jump Shot,2,24,0,POR,3PT Field Goal,3/9/09
+Jump Shot,2,7,1,POR,2PT Field Goal,3/9/09
+Jump Shot,2,8,0,POR,2PT Field Goal,3/9/09
+Jump Shot,2,5,0,POR,2PT Field Goal,3/9/09
+Jump Shot,3,16,1,POR,2PT Field Goal,3/9/09
+Jump Shot,3,12,0,POR,2PT Field Goal,3/9/09
+Layup,3,0,0,POR,2PT Field Goal,3/9/09
+Jump Shot,3,20,1,POR,2PT Field Goal,3/9/09
+Jump Shot,3,27,0,POR,3PT Field Goal,3/9/09
+Layup,3,0,0,POR,2PT Field Goal,3/9/09
+Jump Shot,4,23,1,POR,2PT Field Goal,3/9/09
+Jump Shot,4,25,1,POR,3PT Field Goal,3/9/09
+Jump Shot,4,26,0,POR,3PT Field Goal,3/9/09
+Jump Shot,4,26,1,POR,3PT Field Goal,3/9/09
+Jump Shot,4,24,0,POR,3PT Field Goal,3/9/09
+Jump Shot,4,23,0,POR,3PT Field Goal,3/9/09
+Jump Shot,4,25,0,POR,3PT Field Goal,3/9/09
+Jump Shot,1,19,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,1,12,0,HOU,2PT Field Goal,3/11/09
+Jump Shot,1,9,0,HOU,3PT Field Goal,3/11/09
+Jump Shot,1,18,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,2,22,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,2,22,0,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,19,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,19,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,13,0,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,12,0,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,13,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,14,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,3,26,1,HOU,3PT Field Goal,3/11/09
+Jump Shot,4,14,0,HOU,2PT Field Goal,3/11/09
+Jump Shot,4,19,0,HOU,2PT Field Goal,3/11/09
+Layup,4,0,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,4,24,1,HOU,3PT Field Goal,3/11/09
+Layup,4,0,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,4,19,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,4,16,1,HOU,2PT Field Goal,3/11/09
+Jump Shot,1,17,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,8,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,18,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,15,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,19,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,13,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,18,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,18,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,2,17,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,2,14,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,2,9,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,2,24,0,SAS,3PT Field Goal,3/12/09
+Jump Shot,2,8,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,4,16,1,SAS,2PT Field Goal,3/12/09
+Jump Shot,4,7,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,4,18,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,4,25,1,SAS,3PT Field Goal,3/12/09
+Jump Shot,4,20,0,SAS,2PT Field Goal,3/12/09
+Jump Shot,1,14,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,1,9,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,1,18,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,1,16,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,2,17,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,2,13,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,2,14,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,2,11,1,DAL,2PT Field Goal,3/15/09
+Layup,3,0,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,3,28,0,DAL,3PT Field Goal,3/15/09
+Layup,3,0,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,3,25,0,DAL,3PT Field Goal,3/15/09
+Layup,3,0,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,3,17,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,4,18,0,DAL,2PT Field Goal,3/15/09
+Jump Shot,4,26,1,DAL,3PT Field Goal,3/15/09
+Jump Shot,4,27,1,DAL,3PT Field Goal,3/15/09
+Jump Shot,4,19,1,DAL,2PT Field Goal,3/15/09
+Jump Shot,4,29,0,DAL,3PT Field Goal,3/15/09
+Jump Shot,1,17,1,PHI,2PT Field Goal,3/17/09
+Jump Shot,1,25,1,PHI,3PT Field Goal,3/17/09
+Jump Shot,1,26,0,PHI,3PT Field Goal,3/17/09
+Jump Shot,3,18,0,PHI,2PT Field Goal,3/17/09
+Jump Shot,3,20,1,PHI,2PT Field Goal,3/17/09
+Jump Shot,3,17,1,PHI,2PT Field Goal,3/17/09
+Jump Shot,3,17,0,PHI,2PT Field Goal,3/17/09
+Jump Shot,3,14,0,PHI,2PT Field Goal,3/17/09
+Jump Shot,4,20,0,PHI,2PT Field Goal,3/17/09
+Jump Shot,4,25,0,PHI,3PT Field Goal,3/17/09
+Jump Shot,4,26,0,PHI,3PT Field Goal,3/17/09
+Jump Shot,4,21,0,PHI,2PT Field Goal,3/17/09
+Jump Shot,4,23,1,PHI,2PT Field Goal,3/17/09
+Jump Shot,1,11,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,1,24,1,GSW,3PT Field Goal,3/19/09
+Layup,1,0,1,GSW,2PT Field Goal,3/19/09
+Layup,1,0,1,GSW,2PT Field Goal,3/19/09
+Jump Shot,1,16,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,2,24,0,GSW,3PT Field Goal,3/19/09
+Jump Shot,2,24,0,GSW,3PT Field Goal,3/19/09
+Layup,2,0,1,GSW,2PT Field Goal,3/19/09
+Layup,2,0,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,2,9,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,3,25,0,GSW,3PT Field Goal,3/19/09
+Jump Shot,3,25,0,GSW,3PT Field Goal,3/19/09
+Layup,3,0,1,GSW,2PT Field Goal,3/19/09
+Layup,3,0,1,GSW,2PT Field Goal,3/19/09
+Jump Shot,3,15,0,GSW,2PT Field Goal,3/19/09
+Dunk,3,0,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,4,19,0,GSW,2PT Field Goal,3/19/09
+Jump Shot,4,13,0,GSW,2PT Field Goal,3/19/09
+Layup,4,0,1,GSW,2PT Field Goal,3/19/09
+Layup,4,0,0,GSW,2PT Field Goal,3/19/09
+Bank Shot,1,8,1,CHI,2PT Field Goal,3/21/09
+Jump Shot,1,14,1,CHI,2PT Field Goal,3/21/09
+Jump Shot,1,17,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,1,26,0,CHI,3PT Field Goal,3/21/09
+Jump Shot,2,25,1,CHI,3PT Field Goal,3/21/09
+Jump Shot,2,25,0,CHI,3PT Field Goal,3/21/09
+Jump Shot,2,17,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,2,13,1,CHI,2PT Field Goal,3/21/09
+Jump Shot,2,16,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,2,18,1,CHI,2PT Field Goal,3/21/09
+Layup,2,0,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,2,22,0,CHI,3PT Field Goal,3/21/09
+Jump Shot,3,19,1,CHI,2PT Field Goal,3/21/09
+Dunk,3,0,1,CHI,2PT Field Goal,3/21/09
+Jump Shot,3,8,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,3,23,0,CHI,3PT Field Goal,3/21/09
+Jump Shot,3,22,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,3,10,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,3,21,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,4,6,0,CHI,2PT Field Goal,3/21/09
+Jump Shot,4,23,1,CHI,3PT Field Goal,3/21/09
+Jump Shot,4,13,0,CHI,2PT Field Goal,3/21/09
+Layup,4,0,0,CHI,2PT Field Goal,3/21/09
+Dunk,4,0,1,CHI,2PT Field Goal,3/21/09
+Layup,1,0,0,OKC,2PT Field Goal,3/24/09
+Layup,1,0,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,1,12,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,1,24,0,OKC,3PT Field Goal,3/24/09
+Layup,1,0,1,OKC,2PT Field Goal,3/24/09
+Jump Shot,2,15,0,OKC,2PT Field Goal,3/24/09
+Layup,2,0,1,OKC,2PT Field Goal,3/24/09
+Jump Shot,2,12,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,2,17,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,2,24,1,OKC,3PT Field Goal,3/24/09
+Jump Shot,2,24,0,OKC,3PT Field Goal,3/24/09
+Layup,3,0,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,3,17,1,OKC,2PT Field Goal,3/24/09
+Jump Shot,3,11,0,OKC,2PT Field Goal,3/24/09
+Jump Shot,3,25,0,OKC,3PT Field Goal,3/24/09
+Jump Shot,3,9,1,OKC,2PT Field Goal,3/24/09
+Dunk,1,0,1,DET,2PT Field Goal,3/26/09
+Layup,1,0,0,DET,2PT Field Goal,3/26/09
+Layup,1,0,1,DET,2PT Field Goal,3/26/09
+Jump Shot,1,20,1,DET,2PT Field Goal,3/26/09
+Jump Shot,2,26,1,DET,3PT Field Goal,3/26/09
+Layup,2,0,0,DET,2PT Field Goal,3/26/09
+Layup,2,0,1,DET,2PT Field Goal,3/26/09
+Jump Shot,3,14,0,DET,2PT Field Goal,3/26/09
+Jump Shot,3,14,1,DET,2PT Field Goal,3/26/09
+Layup,3,0,1,DET,2PT Field Goal,3/26/09
+Jump Shot,3,14,0,DET,2PT Field Goal,3/26/09
+Jump Shot,3,24,0,DET,3PT Field Goal,3/26/09
+Layup,4,0,1,DET,2PT Field Goal,3/26/09
+Jump Shot,4,24,0,DET,3PT Field Goal,3/26/09
+Jump Shot,1,13,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,1,17,0,NJN,2PT Field Goal,3/27/09
+Layup,1,0,1,NJN,2PT Field Goal,3/27/09
+Jump Shot,2,24,0,NJN,3PT Field Goal,3/27/09
+Jump Shot,2,16,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,2,9,0,NJN,2PT Field Goal,3/27/09
+Hook Shot,3,7,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,3,8,1,NJN,2PT Field Goal,3/27/09
+Jump Shot,3,25,1,NJN,3PT Field Goal,3/27/09
+Jump Shot,3,26,1,NJN,3PT Field Goal,3/27/09
+Jump Shot,3,24,0,NJN,3PT Field Goal,3/27/09
+Jump Shot,3,12,0,NJN,2PT Field Goal,3/27/09
+Layup,4,0,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,4,27,0,NJN,3PT Field Goal,3/27/09
+Jump Shot,4,22,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,4,17,0,NJN,2PT Field Goal,3/27/09
+Jump Shot,1,27,0,ATL,3PT Field Goal,3/29/09
+Dunk,1,0,1,ATL,2PT Field Goal,3/29/09
+Jump Shot,1,17,0,ATL,2PT Field Goal,3/29/09
+Jump Shot,2,19,0,ATL,2PT Field Goal,3/29/09
+Jump Shot,2,18,1,ATL,2PT Field Goal,3/29/09
+Jump Shot,2,7,0,ATL,2PT Field Goal,3/29/09
+Jump Shot,2,24,1,ATL,3PT Field Goal,3/29/09
+Jump Shot,3,28,0,ATL,3PT Field Goal,3/29/09
+Jump Shot,3,13,0,ATL,2PT Field Goal,3/29/09
+Layup,3,0,1,ATL,2PT Field Goal,3/29/09
+Jump Shot,3,21,0,ATL,2PT Field Goal,3/29/09
+Jump Shot,3,17,0,ATL,2PT Field Goal,3/29/09
+Layup,4,1,1,ATL,2PT Field Goal,3/29/09
+Jump Shot,4,26,0,ATL,3PT Field Goal,3/29/09
+Jump Shot,4,27,0,ATL,3PT Field Goal,3/29/09
+Jump Shot,1,18,1,CHA,2PT Field Goal,3/31/09
+Layup,1,0,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,1,18,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,1,15,1,CHA,2PT Field Goal,3/31/09
+Jump Shot,1,9,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,1,15,1,CHA,2PT Field Goal,3/31/09
+Jump Shot,1,19,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,2,20,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,2,26,0,CHA,3PT Field Goal,3/31/09
+Jump Shot,3,6,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,3,17,1,CHA,2PT Field Goal,3/31/09
+Jump Shot,3,27,1,CHA,3PT Field Goal,3/31/09
+Jump Shot,3,25,1,CHA,3PT Field Goal,3/31/09
+Jump Shot,3,18,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,3,8,0,CHA,2PT Field Goal,3/31/09
+Jump Shot,4,11,1,CHA,2PT Field Goal,3/31/09
+Layup,4,0,0,CHA,2PT Field Goal,3/31/09
+Layup,4,0,1,CHA,2PT Field Goal,3/31/09
+Jump Shot,4,25,0,CHA,3PT Field Goal,3/31/09
+Jump Shot,4,24,0,CHA,3PT Field Goal,3/31/09
+Jump Shot,4,17,1,CHA,2PT Field Goal,3/31/09
+Layup,1,0,1,MIL,2PT Field Goal,4/1/09
+Jump Shot,1,16,1,MIL,2PT Field Goal,4/1/09
+Layup,1,0,1,MIL,2PT Field Goal,4/1/09
+Jump Shot,2,24,1,MIL,3PT Field Goal,4/1/09
+Jump Shot,2,17,1,MIL,2PT Field Goal,4/1/09
+Layup,2,0,1,MIL,2PT Field Goal,4/1/09
+Jump Shot,3,17,0,MIL,2PT Field Goal,4/1/09
+Jump Shot,3,8,0,MIL,2PT Field Goal,4/1/09
+Jump Shot,3,9,0,MIL,2PT Field Goal,4/1/09
+Layup,4,0,0,MIL,2PT Field Goal,4/1/09
+Jump Shot,4,10,0,MIL,2PT Field Goal,4/1/09
+Layup,4,0,1,MIL,2PT Field Goal,4/1/09
+Layup,4,0,1,MIL,2PT Field Goal,4/1/09
+Jump Shot,4,22,0,MIL,3PT Field Goal,4/1/09
+Jump Shot,4,9,0,MIL,2PT Field Goal,4/1/09
+Jump Shot,4,20,0,MIL,2PT Field Goal,4/1/09
+Layup,1,0,0,HOU,2PT Field Goal,4/3/09
+Layup,2,0,0,HOU,2PT Field Goal,4/3/09
+Jump Shot,2,26,1,HOU,3PT Field Goal,4/3/09
+Jump Shot,2,10,1,HOU,2PT Field Goal,4/3/09
+Dunk,3,0,1,HOU,2PT Field Goal,4/3/09
+Jump Shot,3,28,0,HOU,3PT Field Goal,4/3/09
+Jump Shot,4,18,1,HOU,2PT Field Goal,4/3/09
+Jump Shot,4,25,1,HOU,3PT Field Goal,4/3/09
+Jump Shot,4,25,1,HOU,3PT Field Goal,4/3/09
+Jump Shot,1,14,0,LAC,2PT Field Goal,4/5/09
+Layup,1,0,1,LAC,2PT Field Goal,4/5/09
+Jump Shot,1,25,1,LAC,3PT Field Goal,4/5/09
+Jump Shot,1,25,1,LAC,3PT Field Goal,4/5/09
+Jump Shot,2,11,0,LAC,2PT Field Goal,4/5/09
+Layup,2,0,0,LAC,2PT Field Goal,4/5/09
+Jump Shot,2,26,1,LAC,3PT Field Goal,4/5/09
+Jump Shot,2,26,0,LAC,3PT Field Goal,4/5/09
+Jump Shot,2,20,0,LAC,2PT Field Goal,4/5/09
+Jump Shot,3,15,0,LAC,2PT Field Goal,4/5/09
+Jump Shot,3,24,0,LAC,3PT Field Goal,4/5/09
+Jump Shot,3,4,1,LAC,2PT Field Goal,4/5/09
+Jump Shot,4,18,0,LAC,2PT Field Goal,4/5/09
+Jump Shot,4,13,0,LAC,2PT Field Goal,4/5/09
+Jump Shot,4,24,0,LAC,3PT Field Goal,4/5/09
+Layup,1,4,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,1,24,0,SAC,3PT Field Goal,4/7/09
+Jump Shot,1,24,0,SAC,3PT Field Goal,4/7/09
+Jump Shot,1,10,0,SAC,2PT Field Goal,4/7/09
+Layup,1,0,0,SAC,2PT Field Goal,4/7/09
+Jump Shot,1,22,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,2,11,0,SAC,2PT Field Goal,4/7/09
+Layup,2,0,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,2,5,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,3,15,1,SAC,2PT Field Goal,4/7/09
+Layup,3,2,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,3,19,0,SAC,2PT Field Goal,4/7/09
+Layup,3,0,1,SAC,2PT Field Goal,4/7/09
+Jump Shot,3,25,0,SAC,3PT Field Goal,4/7/09
+Jump Shot,3,58,0,SAC,3PT Field Goal,4/7/09
+Jump Shot,1,24,1,DEN,3PT Field Goal,4/9/09
+Jump Shot,1,24,0,DEN,3PT Field Goal,4/9/09
+Layup,1,0,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,1,21,0,DEN,2PT Field Goal,4/9/09
+Jump Shot,2,19,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,2,12,0,DEN,2PT Field Goal,4/9/09
+Layup,2,0,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,2,13,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,3,25,0,DEN,3PT Field Goal,4/9/09
+Jump Shot,3,12,0,DEN,2PT Field Goal,4/9/09
+Layup,3,0,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,3,4,0,DEN,2PT Field Goal,4/9/09
+Layup,3,0,0,DEN,2PT Field Goal,4/9/09
+Jump Shot,3,22,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,4,13,1,DEN,2PT Field Goal,4/9/09
+Layup,4,0,1,DEN,2PT Field Goal,4/9/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,4/9/09
+Layup,1,0,0,POR,2PT Field Goal,4/10/09
+Jump Shot,1,25,1,POR,3PT Field Goal,4/10/09
+Jump Shot,1,15,0,POR,2PT Field Goal,4/10/09
+Jump Shot,1,16,0,POR,2PT Field Goal,4/10/09
+Jump Shot,2,12,1,POR,2PT Field Goal,4/10/09
+Layup,3,0,0,POR,2PT Field Goal,4/10/09
+Hook Shot,3,4,0,POR,2PT Field Goal,4/10/09
+Jump Shot,3,25,1,POR,3PT Field Goal,4/10/09
+Hook Shot,3,4,1,POR,2PT Field Goal,4/10/09
+Jump Shot,3,11,1,POR,2PT Field Goal,4/10/09
+Jump Shot,3,24,0,POR,3PT Field Goal,4/10/09
+Jump Shot,4,14,1,POR,2PT Field Goal,4/10/09
+Jump Shot,4,23,1,POR,2PT Field Goal,4/10/09
+Jump Shot,4,19,0,POR,2PT Field Goal,4/10/09
+Layup,4,0,1,POR,2PT Field Goal,4/10/09
+Jump Shot,4,16,0,POR,2PT Field Goal,4/10/09
+Jump Shot,4,22,0,POR,2PT Field Goal,4/10/09
+Jump Shot,4,25,0,POR,3PT Field Goal,4/10/09
+Jump Shot,4,24,0,POR,3PT Field Goal,4/10/09
+Jump Shot,1,15,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,1,14,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,1,13,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,2,17,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,2,25,0,MEM,3PT Field Goal,4/12/09
+Jump Shot,3,10,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,3,26,0,MEM,3PT Field Goal,4/12/09
+Jump Shot,3,14,1,MEM,2PT Field Goal,4/12/09
+Jump Shot,1,13,1,UTA,2PT Field Goal,4/14/09
+Layup,1,0,1,UTA,2PT Field Goal,4/14/09
+Jump Shot,3,18,0,UTA,2PT Field Goal,4/14/09
+Jump Shot,3,8,0,UTA,2PT Field Goal,4/14/09
+Jump Shot,3,25,0,UTA,3PT Field Goal,4/14/09
+Jump Shot,3,20,0,UTA,2PT Field Goal,4/14/09
+Jump Shot,3,16,1,UTA,2PT Field Goal,4/14/09
+Bank Shot,3,10,1,UTA,2PT Field Goal,4/14/09
+Jump Shot,4,25,1,UTA,3PT Field Goal,4/14/09
+Jump Shot,4,19,0,UTA,2PT Field Goal,4/14/09
+Jump Shot,1,10,0,UTA,2PT Field Goal,4/19/09
+Layup,1,0,1,UTA,2PT Field Goal,4/19/09
+Jump Shot,2,16,1,UTA,2PT Field Goal,4/19/09
+Jump Shot,2,13,1,UTA,2PT Field Goal,4/19/09
+Jump Shot,2,15,1,UTA,2PT Field Goal,4/19/09
+Jump Shot,3,3,0,UTA,2PT Field Goal,4/19/09
+Jump Shot,3,14,0,UTA,2PT Field Goal,4/19/09
+Jump Shot,3,26,0,UTA,3PT Field Goal,4/19/09
+Jump Shot,3,63,0,UTA,3PT Field Goal,4/19/09
+Jump Shot,4,17,1,UTA,2PT Field Goal,4/19/09
+Jump Shot,4,16,0,UTA,2PT Field Goal,4/19/09
+Jump Shot,4,27,0,UTA,3PT Field Goal,4/19/09
+Jump Shot,1,25,1,UTA,3PT Field Goal,4/21/09
+Jump Shot,1,23,0,UTA,3PT Field Goal,4/21/09
+Layup,2,0,1,UTA,2PT Field Goal,4/21/09
+Jump Shot,3,11,0,UTA,2PT Field Goal,4/21/09
+Jump Shot,3,12,1,UTA,2PT Field Goal,4/21/09
+Jump Shot,3,16,0,UTA,2PT Field Goal,4/21/09
+Jump Shot,3,17,0,UTA,2PT Field Goal,4/21/09
+Jump Shot,3,19,1,UTA,2PT Field Goal,4/21/09
+Hook Shot,4,7,1,UTA,2PT Field Goal,4/21/09
+Bank Shot,4,11,1,UTA,2PT Field Goal,4/21/09
+Jump Shot,4,27,0,UTA,3PT Field Goal,4/21/09
+Layup,4,0,0,UTA,2PT Field Goal,4/21/09
+Jump Shot,4,20,1,UTA,2PT Field Goal,4/21/09
+Jump Shot,1,17,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,1,24,0,UTA,3PT Field Goal,4/23/09
+Jump Shot,1,8,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,1,17,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,2,17,0,UTA,2PT Field Goal,4/23/09
+Layup,2,0,1,UTA,2PT Field Goal,4/23/09
+Layup,2,0,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,2,13,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,2,17,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,2,10,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,8,1,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,17,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,13,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,16,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,7,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,3,14,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,4,23,0,UTA,3PT Field Goal,4/23/09
+Jump Shot,4,11,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,4,17,0,UTA,2PT Field Goal,4/23/09
+Jump Shot,4,18,0,UTA,2PT Field Goal,4/23/09
+Layup,4,0,1,UTA,2PT Field Goal,4/23/09
+Jump Shot,4,29,0,UTA,3PT Field Goal,4/23/09
+Jump Shot,1,18,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,1,19,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,1,15,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,1,20,0,UTA,2PT Field Goal,4/25/09
+Layup,1,0,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,2,15,1,UTA,2PT Field Goal,4/25/09
+Layup,2,0,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,2,20,0,UTA,2PT Field Goal,4/25/09
+Jump Shot,2,20,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,2,24,1,UTA,3PT Field Goal,4/25/09
+Jump Shot,3,17,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,3,22,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,3,21,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,3,21,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,3,19,0,UTA,2PT Field Goal,4/25/09
+Jump Shot,4,22,0,UTA,2PT Field Goal,4/25/09
+Jump Shot,4,21,0,UTA,2PT Field Goal,4/25/09
+Jump Shot,4,20,1,UTA,2PT Field Goal,4/25/09
+Jump Shot,4,11,0,UTA,2PT Field Goal,4/25/09
+Jump Shot,4,24,0,UTA,3PT Field Goal,4/25/09
+Jump Shot,1,12,1,UTA,2PT Field Goal,4/27/09
+Jump Shot,1,17,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,1,21,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,2,27,1,UTA,3PT Field Goal,4/27/09
+Jump Shot,2,14,0,UTA,2PT Field Goal,4/27/09
+Layup,2,0,0,UTA,2PT Field Goal,4/27/09
+Layup,2,0,1,UTA,2PT Field Goal,4/27/09
+Layup,2,0,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,2,8,1,UTA,2PT Field Goal,4/27/09
+Jump Shot,3,11,0,UTA,2PT Field Goal,4/27/09
+Layup,3,0,1,UTA,2PT Field Goal,4/27/09
+Layup,3,0,1,UTA,2PT Field Goal,4/27/09
+Jump Shot,3,25,1,UTA,3PT Field Goal,4/27/09
+Jump Shot,4,26,1,UTA,3PT Field Goal,4/27/09
+Jump Shot,4,11,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,4,22,0,UTA,3PT Field Goal,4/27/09
+Jump Shot,4,4,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,4,14,1,UTA,2PT Field Goal,4/27/09
+Jump Shot,4,16,0,UTA,2PT Field Goal,4/27/09
+Jump Shot,1,16,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,1,25,0,HOU,3PT Field Goal,5/4/09
+Layup,1,0,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,1,26,0,HOU,3PT Field Goal,5/4/09
+Jump Shot,2,9,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,2,21,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,2,16,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,2,6,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,2,22,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,9,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,25,1,HOU,3PT Field Goal,5/4/09
+Jump Shot,3,18,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,26,0,HOU,3PT Field Goal,5/4/09
+Jump Shot,3,11,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,18,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,14,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,3,24,0,HOU,3PT Field Goal,5/4/09
+Jump Shot,4,16,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,4,13,0,HOU,2PT Field Goal,5/4/09
+Hook Shot,4,4,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,4,21,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,4,16,0,HOU,2PT Field Goal,5/4/09
+Jump Shot,4,28,0,HOU,3PT Field Goal,5/4/09
+Dunk,4,0,1,HOU,2PT Field Goal,5/4/09
+Jump Shot,1,17,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,16,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,19,0,HOU,2PT Field Goal,5/6/09
+Layup,1,0,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,20,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,21,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,26,1,HOU,3PT Field Goal,5/6/09
+Jump Shot,1,20,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,26,0,HOU,3PT Field Goal,5/6/09
+Jump Shot,1,22,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,2,17,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,2,22,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,3,15,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,3,14,1,HOU,2PT Field Goal,5/6/09
+Layup,3,0,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,3,22,1,HOU,2PT Field Goal,5/6/09
+Layup,3,0,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,3,10,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,4,21,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,4,17,1,HOU,2PT Field Goal,5/6/09
+Layup,4,0,0,HOU,2PT Field Goal,5/6/09
+Layup,4,0,1,HOU,2PT Field Goal,5/6/09
+Jump Shot,4,16,0,HOU,2PT Field Goal,5/6/09
+Jump Shot,1,18,1,HOU,2PT Field Goal,5/8/09
+Jump Shot,1,25,1,HOU,3PT Field Goal,5/8/09
+Jump Shot,1,22,1,HOU,2PT Field Goal,5/8/09
+Layup,1,0,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,1,17,1,HOU,2PT Field Goal,5/8/09
+Jump Shot,1,11,1,HOU,2PT Field Goal,5/8/09
+Jump Shot,2,8,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,2,25,1,HOU,3PT Field Goal,5/8/09
+Jump Shot,2,20,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,2,11,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,2,5,0,HOU,2PT Field Goal,5/8/09
+Layup,2,0,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,2,27,0,HOU,3PT Field Goal,5/8/09
+Jump Shot,3,25,0,HOU,3PT Field Goal,5/8/09
+Jump Shot,3,7,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,3,17,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,3,10,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,3,32,1,HOU,3PT Field Goal,5/8/09
+Layup,4,0,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,4,5,0,HOU,2PT Field Goal,5/8/09
+Layup,4,0,1,HOU,2PT Field Goal,5/8/09
+Layup,4,0,1,HOU,2PT Field Goal,5/8/09
+Jump Shot,4,6,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,4,19,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,4,26,1,HOU,3PT Field Goal,5/8/09
+Jump Shot,4,23,0,HOU,2PT Field Goal,5/8/09
+Layup,4,0,0,HOU,2PT Field Goal,5/8/09
+Jump Shot,1,25,0,HOU,3PT Field Goal,5/10/09
+Jump Shot,1,11,1,HOU,2PT Field Goal,5/10/09
+Jump Shot,1,16,0,HOU,2PT Field Goal,5/10/09
+Jump Shot,1,23,0,HOU,3PT Field Goal,5/10/09
+Jump Shot,1,17,1,HOU,2PT Field Goal,5/10/09
+Jump Shot,1,21,0,HOU,2PT Field Goal,5/10/09
+Jump Shot,2,15,1,HOU,2PT Field Goal,5/10/09
+Jump Shot,2,15,1,HOU,2PT Field Goal,5/10/09
+Jump Shot,2,20,0,HOU,2PT Field Goal,5/10/09
+Layup,3,0,0,HOU,2PT Field Goal,5/10/09
+Layup,3,0,1,HOU,2PT Field Goal,5/10/09
+Jump Shot,3,7,0,HOU,2PT Field Goal,5/10/09
+Jump Shot,3,17,0,HOU,2PT Field Goal,5/10/09
+Jump Shot,3,26,0,HOU,3PT Field Goal,5/10/09
+Jump Shot,1,20,1,HOU,2PT Field Goal,5/12/09
+Layup,1,0,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,1,10,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,1,16,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,1,15,0,HOU,2PT Field Goal,5/12/09
+Jump Shot,2,20,0,HOU,2PT Field Goal,5/12/09
+Layup,2,0,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,2,25,1,HOU,3PT Field Goal,5/12/09
+Jump Shot,2,25,0,HOU,3PT Field Goal,5/12/09
+Jump Shot,2,11,0,HOU,2PT Field Goal,5/12/09
+Jump Shot,3,16,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,3,12,0,HOU,2PT Field Goal,5/12/09
+Jump Shot,3,14,0,HOU,2PT Field Goal,5/12/09
+Jump Shot,3,17,1,HOU,2PT Field Goal,5/12/09
+Jump Shot,1,14,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,1,11,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,1,22,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,1,22,0,HOU,2PT Field Goal,5/14/09
+Layup,1,0,0,HOU,2PT Field Goal,5/14/09
+Layup,1,0,1,HOU,2PT Field Goal,5/14/09
+Jump Shot,2,17,1,HOU,2PT Field Goal,5/14/09
+Jump Shot,2,18,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,2,7,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,2,15,1,HOU,2PT Field Goal,5/14/09
+Layup,2,0,1,HOU,2PT Field Goal,5/14/09
+Dunk,2,0,1,HOU,2PT Field Goal,5/14/09
+Jump Shot,2,44,0,HOU,3PT Field Goal,5/14/09
+Jump Shot,3,24,1,HOU,3PT Field Goal,5/14/09
+Jump Shot,3,11,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,3,18,1,HOU,2PT Field Goal,5/14/09
+Layup,3,0,0,HOU,2PT Field Goal,5/14/09
+Jump Shot,4,14,0,HOU,2PT Field Goal,5/14/09
+Bank Shot,4,9,1,HOU,2PT Field Goal,5/14/09
+Jump Shot,4,24,0,HOU,3PT Field Goal,5/14/09
+Bank Shot,4,10,1,HOU,2PT Field Goal,5/14/09
+Jump Shot,4,26,0,HOU,3PT Field Goal,5/14/09
+Jump Shot,1,18,0,HOU,2PT Field Goal,5/17/09
+Layup,1,0,1,HOU,2PT Field Goal,5/17/09
+Jump Shot,2,26,0,HOU,3PT Field Goal,5/17/09
+Jump Shot,2,18,1,HOU,2PT Field Goal,5/17/09
+Layup,2,0,0,HOU,2PT Field Goal,5/17/09
+Layup,2,0,0,HOU,2PT Field Goal,5/17/09
+Jump Shot,2,26,0,HOU,3PT Field Goal,5/17/09
+Jump Shot,3,27,1,HOU,3PT Field Goal,5/17/09
+Layup,3,2,0,HOU,2PT Field Goal,5/17/09
+Jump Shot,1,8,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,1,16,0,DEN,2PT Field Goal,5/19/09
+Layup,1,0,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,1,9,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,1,13,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,1,17,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,2,11,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,2,15,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,2,16,0,DEN,2PT Field Goal,5/19/09
+Dunk,2,0,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,2,26,0,DEN,3PT Field Goal,5/19/09
+Jump Shot,2,23,1,DEN,3PT Field Goal,5/19/09
+Layup,2,0,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,2,15,1,DEN,2PT Field Goal,5/19/09
+Dunk,3,0,1,DEN,2PT Field Goal,5/19/09
+Layup,3,0,0,DEN,2PT Field Goal,5/19/09
+Bank Shot,3,5,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,3,7,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,3,19,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,4,27,1,DEN,3PT Field Goal,5/19/09
+Layup,4,0,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,4,14,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,4,20,1,DEN,2PT Field Goal,5/19/09
+Jump Shot,4,21,0,DEN,2PT Field Goal,5/19/09
+Jump Shot,1,18,1,DEN,2PT Field Goal,5/21/09
+Layup,1,0,1,DEN,2PT Field Goal,5/21/09
+Layup,1,0,0,DEN,2PT Field Goal,5/21/09
+Layup,1,0,0,DEN,2PT Field Goal,5/21/09
+Layup,1,0,1,DEN,2PT Field Goal,5/21/09
+Jump Shot,2,6,1,DEN,2PT Field Goal,5/21/09
+Jump Shot,2,12,0,DEN,2PT Field Goal,5/21/09
+Jump Shot,2,20,0,DEN,2PT Field Goal,5/21/09
+Jump Shot,3,4,0,DEN,2PT Field Goal,5/21/09
+Dunk,3,0,1,DEN,2PT Field Goal,5/21/09
+Jump Shot,3,22,0,DEN,2PT Field Goal,5/21/09
+Jump Shot,4,10,0,DEN,2PT Field Goal,5/21/09
+Jump Shot,4,24,1,DEN,3PT Field Goal,5/21/09
+Jump Shot,4,6,0,DEN,2PT Field Goal,5/21/09
+Jump Shot,4,26,1,DEN,3PT Field Goal,5/21/09
+Jump Shot,4,9,1,DEN,2PT Field Goal,5/21/09
+Layup,1,0,1,DEN,2PT Field Goal,5/23/09
+Jump Shot,1,21,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,2,18,1,DEN,2PT Field Goal,5/23/09
+Jump Shot,2,24,0,DEN,3PT Field Goal,5/23/09
+Layup,2,0,1,DEN,2PT Field Goal,5/23/09
+Layup,2,0,1,DEN,2PT Field Goal,5/23/09
+Layup,2,0,0,DEN,2PT Field Goal,5/23/09
+Layup,3,0,1,DEN,2PT Field Goal,5/23/09
+Jump Shot,3,18,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,3,6,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,3,7,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,3,23,1,DEN,3PT Field Goal,5/23/09
+Jump Shot,3,19,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,3,24,0,DEN,3PT Field Goal,5/23/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,5/23/09
+Jump Shot,4,7,1,DEN,2PT Field Goal,5/23/09
+Jump Shot,4,23,0,DEN,2PT Field Goal,5/23/09
+Jump Shot,4,24,1,DEN,3PT Field Goal,5/23/09
+Jump Shot,1,25,0,DEN,3PT Field Goal,5/25/09
+Layup,1,0,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,1,21,1,DEN,2PT Field Goal,5/25/09
+Bank Shot,1,9,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,2,25,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,2,18,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,2,16,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,2,25,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,2,23,1,DEN,3PT Field Goal,5/25/09
+Jump Shot,2,16,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,2,17,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,3,18,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,3,21,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,3,19,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,3,25,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,4,13,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,4,21,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,4,19,1,DEN,2PT Field Goal,5/25/09
+Jump Shot,4,24,1,DEN,3PT Field Goal,5/25/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,4,23,0,DEN,3PT Field Goal,5/25/09
+Jump Shot,4,25,0,DEN,3PT Field Goal,5/25/09
+Layup,4,0,0,DEN,2PT Field Goal,5/25/09
+Jump Shot,1,22,1,DEN,2PT Field Goal,5/27/09
+Jump Shot,1,25,0,DEN,3PT Field Goal,5/27/09
+Layup,2,0,1,DEN,2PT Field Goal,5/27/09
+Layup,2,0,1,DEN,2PT Field Goal,5/27/09
+Dunk,3,0,1,DEN,2PT Field Goal,5/27/09
+Jump Shot,3,21,1,DEN,2PT Field Goal,5/27/09
+Jump Shot,3,27,0,DEN,3PT Field Goal,5/27/09
+Jump Shot,3,26,1,DEN,3PT Field Goal,5/27/09
+Jump Shot,4,6,0,DEN,2PT Field Goal,5/27/09
+Jump Shot,4,26,0,DEN,3PT Field Goal,5/27/09
+Jump Shot,4,26,0,DEN,3PT Field Goal,5/27/09
+Layup,4,0,0,DEN,2PT Field Goal,5/27/09
+Jump Shot,4,27,0,DEN,3PT Field Goal,5/27/09
+Jump Shot,1,18,0,DEN,2PT Field Goal,5/29/09
+Jump Shot,1,9,1,DEN,2PT Field Goal,5/29/09
+Layup,1,0,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,1,8,0,DEN,2PT Field Goal,5/29/09
+Jump Shot,2,12,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,2,20,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,2,11,0,DEN,2PT Field Goal,5/29/09
+Jump Shot,2,23,1,DEN,3PT Field Goal,5/29/09
+Jump Shot,3,26,0,DEN,3PT Field Goal,5/29/09
+Jump Shot,3,12,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,3,15,0,DEN,2PT Field Goal,5/29/09
+Jump Shot,3,17,0,DEN,2PT Field Goal,5/29/09
+Bank Shot,3,8,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,3,17,0,DEN,2PT Field Goal,5/29/09
+Jump Shot,3,19,1,DEN,2PT Field Goal,5/29/09
+Dunk,4,0,1,DEN,2PT Field Goal,5/29/09
+Layup,4,0,1,DEN,2PT Field Goal,5/29/09
+Jump Shot,4,25,1,DEN,3PT Field Goal,5/29/09
+Jump Shot,1,4,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,16,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,6,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,16,1,ORL,2PT Field Goal,6/4/09
+Layup,1,0,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,8,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,19,0,ORL,2PT Field Goal,6/4/09
+Layup,1,0,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,19,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,14,1,ORL,2PT Field Goal,6/4/09
+Layup,2,0,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,8,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,14,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,18,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,2,26,0,ORL,3PT Field Goal,6/4/09
+Layup,2,0,1,ORL,2PT Field Goal,6/4/09
+Layup,3,0,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,11,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,13,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,15,0,ORL,2PT Field Goal,6/4/09
+Layup,3,0,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,17,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,8,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,20,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,3,5,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,4,14,0,ORL,2PT Field Goal,6/4/09
+Layup,4,0,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,4,13,0,ORL,2PT Field Goal,6/4/09
+Jump Shot,4,10,1,ORL,2PT Field Goal,6/4/09
+Jump Shot,1,20,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,1,17,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,1,21,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,13,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,15,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,16,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,21,0,ORL,2PT Field Goal,6/7/09
+Dunk,3,0,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,7,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,17,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,17,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,3,30,0,ORL,3PT Field Goal,6/7/09
+Jump Shot,4,16,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,4,11,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,4,11,0,ORL,2PT Field Goal,6/7/09
+Layup,4,0,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,5,21,0,ORL,2PT Field Goal,6/7/09
+Jump Shot,5,11,1,ORL,2PT Field Goal,6/7/09
+Jump Shot,1,15,1,ORL,2PT Field Goal,6/9/09
+Jump Shot,1,25,1,ORL,3PT Field Goal,6/9/09
+Jump Shot,1,17,1,ORL,2PT Field Goal,6/9/09
+Layup,1,0,1,ORL,2PT Field Goal,6/9/09
+Jump Shot,1,17,1,ORL,2PT Field Goal,6/9/09
+Jump Shot,1,23,1,ORL,2PT Field Goal,6/9/09
+Layup,1,0,0,ORL,2PT Field Goal,6/9/09
+Jump Shot,1,24,1,ORL,3PT Field Goal,6/9/09
+Jump Shot,2,23,1,ORL,3PT Field Goal,6/9/09
+Jump Shot,2,14,0,ORL,2PT Field Goal,6/9/09
+Jump Shot,2,10,0,ORL,2PT Field Goal,6/9/09
+Jump Shot,2,26,0,ORL,3PT Field Goal,6/9/09
+Jump Shot,2,13,0,ORL,2PT Field Goal,6/9/09
+Layup,3,0,0,ORL,2PT Field Goal,6/9/09
+Jump Shot,3,18,0,ORL,2PT Field Goal,6/9/09
+Jump Shot,3,27,1,ORL,3PT Field Goal,6/9/09
+Jump Shot,3,27,0,ORL,3PT Field Goal,6/9/09
+Jump Shot,4,7,1,ORL,2PT Field Goal,6/9/09
+Jump Shot,4,26,0,ORL,3PT Field Goal,6/9/09
+Jump Shot,4,25,0,ORL,3PT Field Goal,6/9/09
+Jump Shot,4,27,0,ORL,3PT Field Goal,6/9/09
+Layup,4,0,1,ORL,2PT Field Goal,6/9/09
+Jump Shot,1,20,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,1,12,0,ORL,2PT Field Goal,6/11/09
+Layup,1,0,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,1,9,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,1,18,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,1,20,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,2,20,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,2,26,1,ORL,3PT Field Goal,6/11/09
+Jump Shot,2,19,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,2,25,0,ORL,3PT Field Goal,6/11/09
+Jump Shot,3,25,1,ORL,3PT Field Goal,6/11/09
+Jump Shot,3,19,0,ORL,2PT Field Goal,6/11/09
+Layup,3,0,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,3,16,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,3,25,0,ORL,3PT Field Goal,6/11/09
+Jump Shot,3,15,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,4,10,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,4,21,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,4,4,0,ORL,2PT Field Goal,6/11/09
+Layup,4,0,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,4,26,0,ORL,3PT Field Goal,6/11/09
+Jump Shot,5,11,1,ORL,2PT Field Goal,6/11/09
+Jump Shot,5,10,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,5,18,0,ORL,2PT Field Goal,6/11/09
+Jump Shot,5,14,0,ORL,2PT Field Goal,6/11/09
+Layup,1,0,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,1,18,1,ORL,2PT Field Goal,6/14/09
+Jump Shot,1,24,1,ORL,3PT Field Goal,6/14/09
+Jump Shot,1,25,0,ORL,3PT Field Goal,6/14/09
+Jump Shot,1,16,0,ORL,2PT Field Goal,6/14/09
+Dunk,2,0,1,ORL,2PT Field Goal,6/14/09
+Jump Shot,2,11,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,2,14,1,ORL,2PT Field Goal,6/14/09
+Jump Shot,2,22,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,3,17,1,ORL,2PT Field Goal,6/14/09
+Jump Shot,3,6,1,ORL,2PT Field Goal,6/14/09
+Jump Shot,3,14,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,4,19,1,ORL,2PT Field Goal,6/14/09
+Layup,4,0,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,4,13,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,4,17,0,ORL,2PT Field Goal,6/14/09
+Jump Shot,4,27,0,ORL,3PT Field Goal,6/14/09
+Bank Shot,4,9,1,ORL,2PT Field Goal,6/14/09
